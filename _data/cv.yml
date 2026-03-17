@@ -1,92 +1,90 @@
 cv:
-  name:Rahul Sharma, Ph.D.
-  label: Sr. Scientist
-  email: rahul.sharma@kit.edu
-  location: Karlsruhe, Germany
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
   image: ""
-  summary: A Simple Scientist
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
-      username: imrahul
+      username: AlbertEinstein
     - network: GitHub
-      username: rahul-sharmaa
+      username: example
     - network: LinkedIn
-      username: irahuls
+      username: example
 
   address:
     street: 2712 Broadway St
-    city: Karlsruhe
-    region: Baden
-    postalCode: 76133
-    countryCode: DE
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   sections:
     Education:
-      - institution: Tallinn University of Technology
-        location:  Tallinn, Estonia
-        url: https://www.taltech.ee/
-        area: Computer Science Engineering
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        url: https://www.uzh.ch/
+        area: Physics
         studyType: PhD
-        start_date: 2019
-        end_date: 2023
+        start_date: 1900
+        end_date: 1905
         score: ""
-        courses: "Artificial Intelligence"
+        courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: APJ Abdul Kalam Technical University
-        location: Uttar Pradesh, India
-        area: Computer Science Engineering
-        studyType: Master of Technology (M.Tech)
-        start_date: 2010
-        end_date: 2012
-        highlights:
-          - Description 1.
-          - Description 2.
-
-          
-      - institution: APJ Abdul Kalam Technical University
-        location: Uttar Pradesh, India
-        area: Computer Science Engineering
-        studyType: Bachelor of Technology (M.Tech)
-        start_date: 2004
-        end_date: 2008
+      - institution: Eidgenössische Technische Hochschule
+        location: Zurich, Switzerland
+        area: Physics
+        studyType: Federal teaching diploma
+        start_date: 1896
+        end_date: 1900
         highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Karlsruhe Institute of Technology 
-        position: Sr. Scientist
-        location: Karlsruhe, Germany
-        start_date: 2024
-        end_date: Present
-        summary: Experimenting with LLMs for Model Driven Software Engineering
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Large Language Models for MDE
-          - LLM4SE
+          - Relativity
+          - Description 2.
 
-        - company: Tallinn University of Technology
-        position: Visiting Researcher
-        location: Tallinn, Harju, Estonia, 
-        start_date: 2019
-        end_date: Present
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: AKG Engineering College
-        position: Professor & HOD
-        location: Ghaziabad, UP,  India, 
-        start_date: 2014
-        end_date: 2024
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
 
-     Volunteer:
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
+
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
+
+    Volunteer:
       - company: People's Climate March
         position: Lead Organizer
         location: Zurich, Switzerland
