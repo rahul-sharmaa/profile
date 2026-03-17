@@ -49,5 +49,3 @@ His academic contributions include participation in research projects with cumul
 Dr. Sharma’s leadership philosophy emphasizes the integration of research excellence, digital transformation, global engagement, and sustainable institutional growth. He is particularly committed to aligning engineering education with the United Nations Sustainable Development Goals (SDGs), promoting responsible innovation, ethical AI, and technology-driven solutions to global challenges.
 
 Through his work, Dr. Sharma continues to contribute to the development of globally competitive, innovation-driven academic institutions that combine academic rigor, technological advancement, and societal impact.
-
-\end{cvparagraph}
