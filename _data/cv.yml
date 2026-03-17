@@ -1,14 +1,14 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name:Rahul Sharma, Ph.D.
+  label: Sr. Scientist
+  email: rahul.sharma@kit.edu
+  location: Karlsruhe, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A Simple Scientist
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: imrahul
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -23,35 +23,35 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Tallinn University of Technology
+        location:  Tallinn, Estonia
+        url: https://www.taltech.ee/
+        area: Computer Science Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2019
+        end_date: 2023
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Artificial Intelligence"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: APJ Abdul Kalam Technical University
+        location: Uttar Pradesh, India
+        area: Computer Science Engineering
+        studyType: Master in Technology (M.Tech)
+        start_date: 2010
+        end_date: 2012
         highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: Karlsruhe Institute of Technology 
+        position: Sr. Scientist
+        location: Karlsruhe, Germany
+        start_date: 2024
+        end_date: Present
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
           - Relativity
