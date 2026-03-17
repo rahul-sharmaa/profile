@@ -10,16 +10,16 @@ cv:
     - network: X
       username: imrahul
     - network: GitHub
-      username: example
+      username: rahul-sharmaa
     - network: LinkedIn
-      username: example
+      username: irahuls
 
   address:
     street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Karlsruhe
+    region: Baden
+    postalCode: 76133
+    countryCode: DE
 
   sections:
     Education:
@@ -39,9 +39,20 @@ cv:
       - institution: APJ Abdul Kalam Technical University
         location: Uttar Pradesh, India
         area: Computer Science Engineering
-        studyType: Master in Technology (M.Tech)
+        studyType: Master of Technology (M.Tech)
         start_date: 2010
         end_date: 2012
+        highlights:
+          - Description 1.
+          - Description 2.
+
+          
+      - institution: APJ Abdul Kalam Technical University
+        location: Uttar Pradesh, India
+        area: Computer Science Engineering
+        studyType: Bachelor of Technology (M.Tech)
+        start_date: 2004
+        end_date: 2008
         highlights:
           - Description 1.
           - Description 2.
@@ -52,39 +63,30 @@ cv:
         location: Karlsruhe, Germany
         start_date: 2024
         end_date: Present
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        summary: Experimenting with LLMs for Model Driven Software Engineering
         highlights:
-          - Relativity
-          - Description 2.
+          - Large Language Models for MDE
+          - LLM4SE
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+        - company: Tallinn University of Technology
+        position: Visiting Researcher
+        location: Tallinn, Harju, Estonia, 
+        start_date: 2019
+        end_date: Present
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: AKG Engineering College
+        position: Professor & HOD
+        location: Ghaziabad, UP,  India, 
+        start_date: 2014
+        end_date: 2024
+        highlights:
+          - Description 1.
+          - Description 2.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
+     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
         location: Zurich, Switzerland
