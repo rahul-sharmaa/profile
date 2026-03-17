@@ -6,7 +6,7 @@ subtitle: <a href='https://www.kit.edu/'>Karlsruhe Institute of Technology</a>. 
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: prof_pic_color.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> +49 15563031717 </p>
