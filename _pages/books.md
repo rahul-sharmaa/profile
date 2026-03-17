@@ -12,7 +12,7 @@ collection: books
 
 ## Books that I am reading, have read, or will read
 
-### 📘 Leadership, Growth & Mindset
+### Leadership, Growth & Mindset
 
 - **Atomic Habits** — James Clear  
 - **The 7 Habits of Highly Effective People** — Stephen R. Covey  
@@ -22,7 +22,7 @@ collection: books
 
 ---
 
-### 📗 Strategy, Innovation & Thinking
+### Strategy, Innovation & Thinking
 
 - **Good to Great** — Jim Collins  
 - **Start with Why** — Simon Sinek  
@@ -32,7 +32,7 @@ collection: books
 
 ---
 
-### 📙 Personal Effectiveness & Productivity
+### Personal Effectiveness & Productivity
 
 - **The 4-Hour Workweek** — Tim Ferriss  
 - **Eat That Frog!** — Brian Tracy  
@@ -40,7 +40,7 @@ collection: books
 
 ---
 
-### 📕 Leadership Philosophy & Life Lessons
+### Leadership Philosophy & Life Lessons
 
 - **Man’s Search for Meaning** — Viktor E. Frankl  
 - **The Almanack of Naval Ravikant** — Eric Jorgenson  
