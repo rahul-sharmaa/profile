@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-ai-and-large-language-models-in-modern-education",
+            },{id: "post-classrooms-in-the-year-2030",
+        
+          title: "Classrooms in the Year 2030",
+        
+        description: "The future of classrooms in an AI-driven and digital world",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/disqus-comments/";
+          
+        },
+      },{id: "post-ai-and-large-language-models-in-modern-education",
         
           title: "AI and Large Language Models in Modern Education",
         
