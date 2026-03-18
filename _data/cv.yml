@@ -18,8 +18,8 @@ cv:
     street: Am Fasanengarten 5
     city: Karlsruhe
     region: BW
-    postalCode: BW 76131
-    countryCode: Germany
+    postalCode: 76131
+    countryCode: DE
 
   sections:
     Education:
@@ -38,10 +38,13 @@ cv:
 
       - institution: Tallinn University of Technology
         location: Tallinn, Estonia
+        url: https://www.taltech.ee/
         area: Computer Science
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2019
         end_date: 2023
+        score: ""
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
