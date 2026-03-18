@@ -50,42 +50,30 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Karlsruhe Institute of Technology
+        position: Sr. Scientist
+        location: KIT, Karlsruhe
+        start_date: 2024
+        end_date: 2025
+        summary: Investigating LLMs for SE.
         highlights:
-          - Relativity
+          - Description 2
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Tallinn University of Technology
+        position: Visiting Scientist
+        location: Tallinn, Estonia, EE
+        start_date: 2023
+        end_date: 2026
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: AKG University
+        position: Professor and Head of the Department
+        location: Ghaziabad, India
+        start_date: 2014
+        end_date: 2019
 
     Volunteer:
       - company: People's Climate March
@@ -99,7 +87,7 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: XXX
         authors:
           - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
@@ -140,10 +128,10 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
+      - name: Machine Learning, LLMs
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "LLMs, MDE, SE"
 
     Languages:
       - name: German
