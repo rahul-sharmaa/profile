@@ -15,33 +15,33 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Am Fasanengarten 5
+    city: Karlsruhe
+    region: BW
+    postalCode: BW 76131
+    countryCode: Germany
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Karlsruhe Institute of Technology
+        location: Karlsruhe, Germany
+        url: https://www.kit.edu/
+        area: Computer Science 
+        studyType: Post Doctoral Fellowship 
+        start_date: 2024
+        end_date: 2025
         score: ""
-        courses: "Theory of Relativity"
+        courses: "LLM4SE"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Tallinn University of Technology
+        location: Tallinn, Estonia
+        area: Computer Science
+        studyType: PhD
+        start_date: 2019
+        end_date: 2023
         highlights:
           - Description 1.
           - Description 2.
