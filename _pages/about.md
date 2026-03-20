@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.kit.edu/'>Karlsruhe Institute of Technology</a>. Karlsruhe, Germany.
 
