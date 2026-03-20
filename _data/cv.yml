@@ -107,6 +107,8 @@ cv:
         summary: ""
         highlights: []
 
+        
+
       - company: AKG University, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
@@ -241,28 +243,28 @@ cv:
 
     Projects:
       - name: CRC/SFB 1608
-        summary: "CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber-physical systems. Within the project, I led the development of VSUM (Virtual Single Underlying Model) by leveraging Large Language Models (LLMs) to establish consistency across heterogeneous metamodels such as PREEvision, APP4MC/Amalthea, and ROS."
+        summary: "CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber-physical systems."
         highlights:
-          - Cyber-physical systems.
+          - Cyber-physical systems
           - Model Driven Software Engineering
-        start_date: "2024-10-01"
-        end_date: "2026-09-01"
+        start_date: 2024-10-01
+        end_date: 2026-09-01
 
       - name: EITSA18020
-        summary: "Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this large-scale project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot-Human Cooperation, and the Internet of Things in industrial processes. I contributed as a Data Scientist and Software Architect, designing and implementing scalable data-driven solutions within industrial use cases."
+        summary: "Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes."
         highlights:
-          - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot-Human Cooperation, and the Internet of Things in industrial processes.
+          - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes
           - Designing and implementing scalable data-driven solutions within industrial use cases
-        start_date: "2019-12-17"
-        end_date: "2023-08-31"
+        start_date: 2019-12-17
+        end_date: 2023-08-31
 
-      - name: LEP19022
-        summary: "LEP19022: Applied Research for Developing a Cost-Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000. Funded by the Archimedes Foundation and Reach-UAS, this project focused on creating an innovative 3D spatial data infrastructure with survey-grade accuracy. Contributed as a Data Analyst and Software Architect, responsible for data modelling, accuracy validation, and designing system architecture to deliver scalable and interoperable geospatial solutions."
+       - name: LEP19022
+        summary: "LEP19022: Applied Research for Developing a Cost-Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000."
         highlights:
-          - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot-Human Cooperation, and the Internet of Things in industrial processes.
-          - Designing and implementing scalable data-driven solutions within industrial use cases
-        start_date: "2020-03-01"
-        end_date: "2021-03-31"
+          - Data modelling
+          - System architecture
+        start_date: 2020-03-01
+        end_date: 2021-03-31
 
     References:
       - name: Professor Dirk Draheim
