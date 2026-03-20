@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-detailed-profile",
-          title: "Detailed Profile",
-          description: "",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
