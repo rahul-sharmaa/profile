@@ -4,7 +4,7 @@ cv:
   email: rahul.sharma@kit.edu
   location: Karlsruhe, Germany
   image: ""
-  summary: A globally experienced academic leader with over 18+ years of academic leadership, research, and institutional development across India and Europe (Germany, Finland, Sweden, France, Estonia, Latvia)}. Recognized for driving university transformation through research intensity, internationalization, accreditation excellence, and AI-enabled digital governance. Secured and contributed to multi-million-euro competitive research funding, built global academic partnerships across 10+ countries and strengthened research ecosystems. Led institution-wide reforms aligned with NEP 2020, OBE CBCS, NAAC, NBA, NIRF, UGC ODL regulations (2020), embedding KPI-driven quality assurance, CRM/ERP/LMS-enabled governance, and outcomes-based academic frameworks. Committed to building globally competitive, innovation-led universities integrating research excellence, academic rigor, and societal impact.
+  summary: "A globally experienced academic leader with over 18+ years of academic leadership, research, and institutional development across India and Europe (Germany, Finland, Sweden, France, Estonia, Latvia). Recognized for driving university transformation through research intensity, internationalization, accreditation excellence, and AI-enabled digital governance. Secured and contributed to multi-million-euro competitive research funding, built global academic partnerships across 10+ countries and strengthened research ecosystems. Led institution-wide reforms aligned with NEP 2020, OBE CBCS, NAAC, NBA, NIRF, UGC ODL regulations (2020), embedding KPI-driven quality assurance, CRM/ERP/LMS-enabled governance, and outcomes-based academic frameworks. Committed to building globally competitive, innovation-led universities integrating research excellence, academic rigor, and societal impact."
   social_networks:
     - network: example
       username: AlbertEinstein
@@ -26,201 +26,165 @@ cv:
         location: Karlsruhe, Germany
         url: https://www.kit.edu/
         area: LLMs for Model Driven Software Engineering
-        studyType: Post Doctoral Fellowship 
-        start_date: 2024
-        end_date: 2025
+        studyType: Post Doctoral Fellowship
+        start_date: "2024"
+        end_date: "2025"
         score: ""
-        courses: "LLM4SE"
-        highlights:
-          # - LLMs for Model Driven Software Engineering
-          # - LLMs for Model Driven Software Engineering
-
+        courses: LLM4SE
+        highlights: []
 
       - institution: Tallinn University of Technology, Tallinn, Estonia
         location: Tallinn, Estonia
         url: https://www.taltech.ee/
-        area: Artificial Intelligence 
+        area: Artificial Intelligence
         studyType: Ph.D.
-        start_date: 2019
-        end_date: 2023
+        start_date: "2019"
+        end_date: "2023"
         score: ""
         courses: ""
-        highlights:
-          # - Description 1.
-          # - Description 2.
+        highlights: []
 
-      - institution: Uttar Pradesh Technical University (UPTU) 
+      - institution: Uttar Pradesh Technical University (UPTU)
         location: UP, India
         url: https://www.aktu.ac.in/
         area: Computer Science Engineering
         studyType: M.Tech.
-        start_date: 2010
-        end_date: 2012
+        start_date: "2010"
+        end_date: "2012"
         score: ""
         courses: ""
-        highlights:
-          # - Description 1.
-          # - Description 2.
+        highlights: []
 
-      - institution: Uttar Pradesh Technical University (UPTU) 
+      - institution: Uttar Pradesh Technical University (UPTU)
         location: UP, India
         url: https://www.aktu.ac.in/
         area: Computer Science Engineering
         studyType: B.Tech.
-        start_date: 2004
-        end_date: 2008
+        start_date: "2004"
+        end_date: "2008"
         score: ""
         courses: ""
-        highlights:
-          # - Description 1.
-          # - Description 2.
-
+        highlights: []
 
     Experience:
       - company: Karlsruhe Institute of Technology, Karlsruhe, Germany
         position: Sr. Scientist
         location: KIT, Karlsruhe
-        start_date: 2024
+        start_date: "2024"
         end_date: Present
         summary: Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        highlights: []
 
       - company: AKG University, Ghaziabad, India
         position: Member, Board of Governors
         location: Ghaziabad, India
-        start_date: 2024
+        start_date: "2024"
         end_date: Present
         summary: Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        highlights: []
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Visiting Scientist
         location: Tallinn, Estonia, EE
-        start_date: 2023
+        start_date: "2023"
         end_date: Present
         summary: Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
-          
+        highlights: []
+
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
-        position: Associate Dean,  Innovation & Entrepreneurship (Advisory)
+        position: Associate Dean, Innovation & Entrepreneurship (Advisory)
         location: Tallinn, Estonia, EE
-        start_date: 2024
+        start_date: "2024"
         end_date: Present
         summary: Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
-          
+        highlights: []
+
       - company: Nordea Bank Abp, Helsinki, Finland (EU)
         position: GFCP Senior Specialist – Enterprise Risk & Governance Analytics
         location: Helsinki, Finland
-        start_date: 2023
-        end_date: 2024
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2023"
+        end_date: "2024"
+        summary: ""
+        highlights: []
 
-         
       - company: AKG University, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
-        start_date: 2023
-        end_date: 2024
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2023"
+        end_date: "2024"
+        summary: ""
+        highlights: []
 
       - company: Tallinn University of Technology, Tallinn, Estonia
-        position: Scientific Researcher 
+        position: Scientific Researcher
         location: Tallinn, Estonia, EE
-        start_date: 2019
-        end_date: 2023
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2019"
+        end_date: "2023"
+        summary: ""
+        highlights: []
 
       - company: AKG University, Ghaziabad, India
-        position: Dean – Innovation, International Affairs & Alumni Relations 
+        position: Dean – Innovation, International Affairs & Alumni Relations
         location: Ghaziabad, India
-        start_date: 2017
-        end_date: 2019
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2017"
+        end_date: "2019"
+        summary: ""
+        highlights: []
 
       - company: AKG University, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
-        start_date: 2014
-        end_date: 2017
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2014"
+        end_date: "2017"
+        summary: ""
+        highlights: []
 
       - company: RKG Institute of Technology, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
-        start_date: 2010
-        end_date: 2014
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2010"
+        end_date: "2014"
+        summary: ""
+        highlights: []
 
       - company: HCL Technologies, Noida, India
         position: Software Engineer
         location: Noida, India
-        start_date: 2009
-        end_date: 2010
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2009"
+        end_date: "2010"
+        summary: ""
+        highlights: []
 
       - company: NG Tech Soft Pvt. Ltd., Noida, India
         position: Software Engineer
         location: Noida, India
-        start_date: 2008
-        end_date: 2009
-        summary: #Investigating LLMs for SE.
-        highlights:
-          # - Description 2
-          # - Description 2.
+        start_date: "2008"
+        end_date: "2009"
+        summary: ""
+        highlights: []
 
-        
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
         location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
+        start_date: "2014-04-01"
+        end_date: "2015-07-01"
         summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-         
+        highlights: []
+
     Awards:
       - title: XXX
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
+          - Royal Swedish Academy of Sciences
+        date: "1921-11-01"
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       - title: Max Planck Medal
         authors:
-          - "German Physical Society"
-        date: 2029
+          - German Physical Society
+        date: "2029"
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
@@ -229,7 +193,7 @@ cv:
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
-        releaseDate: 1905-06-30
+        releaseDate: "1905-06-30"
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
         summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
@@ -237,7 +201,7 @@ cv:
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
-        releaseDate: 1905-03-18
+        releaseDate: "1905-03-18"
         url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
         summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
@@ -245,7 +209,7 @@ cv:
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
-        releaseDate: 1916-03-20
+        releaseDate: "1916-03-20"
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
@@ -253,62 +217,60 @@ cv:
       - name: Machine Learning, LLMs
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "LLMs, MDE, SE"
+        keywords: LLMs, MDE, SE
 
     Languages:
       - name: Hindi
-        summary: "Native speaker"
+        summary: Native speaker
 
       - name: English
-        summary: "Fluent"
+        summary: Fluent
 
     Interests:
       - name: Artificial Intelligence
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation
 
     Certificates:
       - name: Machine Learning
-        date: 2018-01-01
+        date: "2018-01-01"
         issuer: Stanford University
         icon: fa-solid fa-location-dot
 
       - name: Quantum Computing
-        date: 2018-01-01
+        date: "2018-01-01"
         issuer: Stanford University
         icon: fa-solid fa-tag
 
       - name: Quantum Information
-        date: 2018-01-01
+        date: "2018-01-01"
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
     Projects:
       - name: CRC/SFB 1608
-        summary: CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber‑physical systems. Within the project, I led the development of VSUM (Virtual Single Underlying Model) by leveraging Large Language Models (LLMs) to establish consistency across heterogeneous metamodels such as PREEvision, APP4MC/Amalthea, and ROS.
+        summary: "CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber-physical systems. Within the project, I led the development of VSUM (Virtual Single Underlying Model) by leveraging Large Language Models (LLMs) to establish consistency across heterogeneous metamodels such as PREEvision, APP4MC/Amalthea, and ROS."
         highlights:
-          - Cyber‑physical systems.
+          - Cyber-physical systems.
           - Model Driven Software Engineering
-        start_date: 01-10-2024
-        end_date: 01-09-2026
+        start_date: "2024-10-01"
+        end_date: "2026-09-01"
 
-   
       - name: EITSA18020
-        summary: Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this large‑scale project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes. I contributed as a Data Scientist and Software Architect, designing and implementing scalable data‑driven solutions within industrial use cases.
+        summary: "Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this large-scale project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot-Human Cooperation, and the Internet of Things in industrial processes. I contributed as a Data Scientist and Software Architect, designing and implementing scalable data-driven solutions within industrial use cases."
         highlights:
-          -  Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes.
-          -  Designing and implementing scalable data‑driven solutions within industrial use cases
-        start_date: 17-12-2019
-        end_date: 31-08-2023
+          - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot-Human Cooperation, and the Internet of Things in industrial processes.
+          - Designing and implementing scalable data-driven solutions within industrial use cases
+        start_date: "2019-12-17"
+        end_date: "2023-08-31"
 
-     - name: LEP19022
-        summary: LEP19022: Applied Research for Developing a Cost‑Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000. Funded by the Archimedes Foundation and Reach‑UAS, this project focused on creating an innovative 3D spatial data infrastructure with survey‑grade accuracy. Contributed as a Data Analyst and Software Architect, responsible for data modelling, accuracy validation, and designing system architecture to deliver scalable and interoperable geospastial solutions.        
+      - name: LEP19022
+        summary: "LEP19022: Applied Research for Developing a Cost-Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000. Funded by the Archimedes Foundation and Reach-UAS, this project focused on creating an innovative 3D spatial data infrastructure with survey-grade accuracy. Contributed as a Data Analyst and Software Architect, responsible for data modelling, accuracy validation, and designing system architecture to deliver scalable and interoperable geospatial solutions."
         highlights:
-          -  Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes.
-          -  Designing and implementing scalable data‑driven solutions within industrial use cases
-        start_date: 01-03-2020
-        end_date: 31-03-2021
-
+          - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot-Human Cooperation, and the Internet of Things in industrial processes.
+          - Designing and implementing scalable data-driven solutions within industrial use cases
+        start_date: "2020-03-01"
+        end_date: "2021-03-31"
 
     References:
       - name: Professor Dirk Draheim
