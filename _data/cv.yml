@@ -33,7 +33,9 @@ cv:
         score: ""
         courses: "LLM4SE"
         highlights:
-          - LLMs for Model Driven Software Engineering
+          #- LLMs for Model Driven Software Engineering
+          #- LLMs for Model Driven Software Engineering
+
 
       - institution: Tallinn University of Technology
         location: Tallinn, Estonia
@@ -45,8 +47,8 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          #- Description 1.
+          #- Description 2.
 
     Experience:
       - company: Karlsruhe Institute of Technology
@@ -56,8 +58,8 @@ cv:
         end_date: 2025
         summary: Investigating LLMs for SE.
         highlights:
-          - Description 2
-          - Description 2.
+          #- Description 2
+          #- Description 2.
 
       - company: Tallinn University of Technology
         position: Visiting Scientist
@@ -65,8 +67,7 @@ cv:
         start_date: 2023
         end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+         
 
       - company: AKG University
         position: Professor and Head of the Department
@@ -82,9 +83,7 @@ cv:
         end_date: 2015-07-01
         summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
+         
     Awards:
       - title: XXX
         authors:
@@ -133,14 +132,14 @@ cv:
         keywords: "LLMs, MDE, SE"
 
     Languages:
-      - name: German
+      - name: Hindi
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Artificial Intelligence
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
@@ -170,10 +169,10 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
+      - name: Professor Dirk Draheim
         icon: fa-solid fa-laptop
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
+      - name: Professor D C Singh
         icon: fa-solid fa-thumbtack
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
