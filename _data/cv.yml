@@ -102,7 +102,7 @@ cv:
         location: Tallinn, Estonia, EE
         start_date: 2023
         end_date: Present
-       summary: Investigating LLMs for SE.
+        summary: Investigating LLMs for SE.
         highlights:
           # - Description 2
           # - Description 2.
@@ -112,7 +112,7 @@ cv:
         location: Tallinn, Estonia, EE
         start_date: 2024
         end_date: Present
-       summary: Investigating LLMs for SE.
+        summary: Investigating LLMs for SE.
         highlights:
           # - Description 2
           # - Description 2.
@@ -284,7 +284,7 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-       - name: CRC/SFB 1608
+      - name: CRC/SFB 1608
         summary: CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber‑physical systems. Within the project, I led the development of VSUM (Virtual Single Underlying Model) by leveraging Large Language Models (LLMs) to establish consistency across heterogeneous metamodels such as PREEvision, APP4MC/Amalthea, and ROS.
         highlights:
           - Cyber‑physical systems.
@@ -301,16 +301,14 @@ cv:
         start_date: 17-12-2019
         end_date: 31-08-2023
 
-   - name: LEP19022
+     - name: LEP19022
         summary: LEP19022: Applied Research for Developing a Cost‑Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000. Funded by the Archimedes Foundation and Reach‑UAS, this project focused on creating an innovative 3D spatial data infrastructure with survey‑grade accuracy. Contributed as a Data Analyst and Software Architect, responsible for data modelling, accuracy validation, and designing system architecture to deliver scalable and interoperable geospastial solutions.        
         highlights:
           -  Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes.
           -  Designing and implementing scalable data‑driven solutions within industrial use cases
         start_date: 01-03-2020
         end_date: 31-03-2021
- 
-    
-        
+
 
     References:
       - name: Professor Dirk Draheim
