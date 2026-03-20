@@ -6,7 +6,7 @@ cv:
   image: ""
   summary: A globally experienced academic leader with over 18+ years of academic leadership, research, and institutional development across India and Europe (Germany, Finland, Sweden, France, Estonia, Latvia)}. Recognized for driving university transformation through research intensity, internationalization, accreditation excellence, and AI-enabled digital governance. Secured and contributed to multi-million-euro competitive research funding, built global academic partnerships across 10+ countries and strengthened research ecosystems. Led institution-wide reforms aligned with NEP 2020, OBE CBCS, NAAC, NBA, NIRF, UGC ODL regulations (2020), embedding KPI-driven quality assurance, CRM/ERP/LMS-enabled governance, and outcomes-based academic frameworks. Committed to building globally competitive, innovation-led universities integrating research excellence, academic rigor, and societal impact.
   social_networks:
-    - network: X
+    - network: example
       username: AlbertEinstein
     - network: GitHub
       username: example
@@ -32,22 +32,22 @@ cv:
         score: ""
         courses: "LLM4SE"
         highlights:
-          #- LLMs for Model Driven Software Engineering
-          #- LLMs for Model Driven Software Engineering
+          # - LLMs for Model Driven Software Engineering
+          # - LLMs for Model Driven Software Engineering
 
 
       - institution: Tallinn University of Technology, Tallinn, Estonia
         location: Tallinn, Estonia
         url: https://www.taltech.ee/
-        area: Computer Science
+        area: Artificial Intelligence 
         studyType: Ph.D.
         start_date: 2019
         end_date: 2023
         score: ""
         courses: ""
         highlights:
-          #- Description 1.
-          #- Description 2.
+          # - Description 1.
+          # - Description 2.
 
       - institution: Uttar Pradesh Technical University (UPTU) 
         location: UP, India
@@ -59,8 +59,8 @@ cv:
         score: ""
         courses: ""
         highlights:
-          #- Description 1.
-          #- Description 2.
+          # - Description 1.
+          # - Description 2.
 
       - institution: Uttar Pradesh Technical University (UPTU) 
         location: UP, India
@@ -72,8 +72,8 @@ cv:
         score: ""
         courses: ""
         highlights:
-          #- Description 1.
-          #- Description 2.
+          # - Description 1.
+          # - Description 2.
 
 
     Experience:
@@ -84,8 +84,8 @@ cv:
         end_date: Present
         summary: Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: AKG University, Ghaziabad, India
         position: Member, Board of Governors
@@ -94,8 +94,8 @@ cv:
         end_date: Present
         summary: Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Visiting Scientist
@@ -104,8 +104,8 @@ cv:
         end_date: Present
        summary: Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
           
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
         position: Associate Dean,  Innovation & Entrepreneurship (Advisory)
@@ -114,8 +114,8 @@ cv:
         end_date: Present
        summary: Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
           
       - company: Nordea Bank Abp, Helsinki, Finland (EU)
         position: GFCP Senior Specialist – Enterprise Risk & Governance Analytics
@@ -124,8 +124,8 @@ cv:
         end_date: 2024
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
          
       - company: AKG University, Ghaziabad, India
@@ -135,8 +135,8 @@ cv:
         end_date: 2024
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Scientific Researcher 
@@ -145,8 +145,8 @@ cv:
         end_date: 2023
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: AKG University, Ghaziabad, India
         position: Dean – Innovation, International Affairs & Alumni Relations 
@@ -155,8 +155,8 @@ cv:
         end_date: 2019
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: AKG University, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
@@ -165,8 +165,8 @@ cv:
         end_date: 2017
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: RKG Institute of Technology, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
@@ -175,8 +175,8 @@ cv:
         end_date: 2014
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: HCL Technologies, Noida, India
         position: Software Engineer
@@ -185,8 +185,8 @@ cv:
         end_date: 2010
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
       - company: NG Tech Soft Pvt. Ltd., Noida, India
         position: Software Engineer
@@ -195,8 +195,8 @@ cv:
         end_date: 2009
         summary: #Investigating LLMs for SE.
         highlights:
-          #- Description 2
-          #- Description 2.
+          # - Description 2
+          # - Description 2.
 
         
     Volunteer:
