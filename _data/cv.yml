@@ -49,31 +49,114 @@ cv:
           #- Description 1.
           #- Description 2.
 
+      - institution: Uttar Pradesh Technical University (UPTU) 
+        location: UP, India
+        url: https://www.aktu.ac.in/
+        area: Computer Science Engineering
+        studyType: M.Tech.
+        start_date: 2010
+        end_date: 2012
+        score: ""
+        courses: ""
+        highlights:
+          #- Description 1.
+          #- Description 2.
+
+      - institution: Uttar Pradesh Technical University (UPTU) 
+        location: UP, India
+        url: https://www.aktu.ac.in/
+        area: Computer Science Engineering
+        studyType: B.Tech.
+        start_date: 2004
+        end_date: 2008
+        score: ""
+        courses: ""
+        highlights:
+          #- Description 1.
+          #- Description 2.
+
+
     Experience:
-      - company: Karlsruhe Institute of Technology
+      - company: Karlsruhe Institute of Technology, Karlsruhe, Germany
         position: Sr. Scientist
         location: KIT, Karlsruhe
         start_date: 2024
-        end_date: 2025
+        end_date: Present
         summary: Investigating LLMs for SE.
         highlights:
           #- Description 2
           #- Description 2.
 
-      - company: Tallinn University of Technology
+      - company: AKG University, Ghaziabad, India
+        position: Member, Board of Governors
+        location: Ghaziabad, India
+        start_date: 2024
+        end_date: Present
+
+      - company: Tallinn University of Technology, Tallinn, Estonia
         position: Visiting Scientist
         location: Tallinn, Estonia, EE
         start_date: 2023
-        end_date: 2026
+        end_date: Present
         highlights:
-         
 
-      - company: AKG University
+      - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
+        position: Associate Dean,  Innovation & Entrepreneurship (Advisory)
+        location: Tallinn, Estonia, EE
+        start_date: 2024
+        end_date: Present
+        highlights:
+
+      - company: Nordea Bank Abp, Helsinki, Finland (EU)
+        position: GFCP Senior Specialist – Enterprise Risk & Governance Analytics
+        location: Helsinki, Finland
+        start_date: 2023
+        end_date: 2024
+         
+      - company: AKG University, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
-        start_date: 2014
+        start_date: 2023
+        end_date: 2024
+
+      - company: Tallinn University of Technology, Tallinn, Estonia
+        position: Scientific Researcher 
+        location: Tallinn, Estonia, EE
+        start_date: 2019
+        end_date: 2023
+        highlights:
+
+      - company: AKG University, Ghaziabad, India
+        position: Dean – Innovation, International Affairs & Alumni Relations 
+        location: Ghaziabad, India
+        start_date: 2017
         end_date: 2019
 
+      - company: AKG University, Ghaziabad, India
+        position: Assitant Professor and Head of Big Data Centre of Excellence
+        location: Ghaziabad, India
+        start_date: 2014
+        end_date: 2017
+
+      - company: RKG Institute of Technology, Ghaziabad, India
+        position: Assitant Professor and Head of Big Data Centre of Excellence
+        location: Ghaziabad, India
+        start_date: 2010
+        end_date: 2014
+
+      - company: HCL Technologies, Noida, India
+        position: Software Engineer
+        location: Noida, India
+        start_date: 2009
+        end_date: 2010
+
+      - company: NG Tech Soft Pvt. Ltd., Noida, India
+        position: Software Engineer
+        location: Noida, India
+        start_date: 2008
+        end_date: 2009
+
+        
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
@@ -159,13 +242,33 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+       - name: CRC/SFB 1608
+        summary: CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber‑physical systems. Within the project, I led the development of VSUM (Virtual Single Underlying Model) by leveraging Large Language Models (LLMs) to establish consistency across heterogeneous metamodels such as PREEvision, APP4MC/Amalthea, and ROS.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Cyber‑physical systems.
+          - Model Driven Software Engineering
+        start_date: 01-10-2024
+        end_date: 01-09-2026
+
+   
+      - name: EITSA18020
+        summary: Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this large‑scale project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes. I contributed as a Data Scientist and Software Architect, designing and implementing scalable data‑driven solutions within industrial use cases.
+        highlights:
+          -  Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes.
+          -  Designing and implementing scalable data‑driven solutions within industrial use cases
+        start_date: 17-12-2019
+        end_date: 31-08-2023
+
+   - name: LEP19022
+        summary: LEP19022: Applied Research for Developing a Cost‑Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000. Funded by the Archimedes Foundation and Reach‑UAS, this project focused on creating an innovative 3D spatial data infrastructure with survey‑grade accuracy. Contributed as a Data Analyst and Software Architect, responsible for data modelling, accuracy validation, and designing system architecture to deliver scalable and interoperable geospastial solutions.        
+        highlights:
+          -  Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes.
+          -  Designing and implementing scalable data‑driven solutions within industrial use cases
+        start_date: 01-03-2020
+        end_date: 31-03-2021
+ 
+    
+        
 
     References:
       - name: Professor Dirk Draheim
