@@ -15,14 +15,14 @@ cv:
 
   address:
     street: Am Fasanengarten 5
-    city: Karlsruhe
+    city: Karlsruhe, Germany
     region: BW
     postalCode: 76131
     countryCode: DE
 
   sections:
     Education:
-      - institution: Karlsruhe Institute of Technology
+      - institution: Karlsruhe Institute of Technology, Karlsruhe, Germany
         location: Karlsruhe, Germany
         url: https://www.kit.edu/
         area: LLMs for Model Driven Software Engineering
@@ -36,7 +36,7 @@ cv:
           #- LLMs for Model Driven Software Engineering
 
 
-      - institution: Tallinn University of Technology
+      - institution: Tallinn University of Technology, Tallinn, Estonia
         location: Tallinn, Estonia
         url: https://www.taltech.ee/
         area: Computer Science
@@ -92,69 +92,111 @@ cv:
         location: Ghaziabad, India
         start_date: 2024
         end_date: Present
+        summary: Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Visiting Scientist
         location: Tallinn, Estonia, EE
         start_date: 2023
         end_date: Present
+       summary: Investigating LLMs for SE.
         highlights:
-
+          #- Description 2
+          #- Description 2.
+          
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
         position: Associate Dean,  Innovation & Entrepreneurship (Advisory)
         location: Tallinn, Estonia, EE
         start_date: 2024
         end_date: Present
+       summary: Investigating LLMs for SE.
         highlights:
-
+          #- Description 2
+          #- Description 2.
+          
       - company: Nordea Bank Abp, Helsinki, Finland (EU)
         position: GFCP Senior Specialist – Enterprise Risk & Governance Analytics
         location: Helsinki, Finland
         start_date: 2023
         end_date: 2024
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
+
          
       - company: AKG University, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
         start_date: 2023
         end_date: 2024
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Scientific Researcher 
         location: Tallinn, Estonia, EE
         start_date: 2019
         end_date: 2023
+        summary: #Investigating LLMs for SE.
         highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: AKG University, Ghaziabad, India
         position: Dean – Innovation, International Affairs & Alumni Relations 
         location: Ghaziabad, India
         start_date: 2017
         end_date: 2019
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: AKG University, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
         start_date: 2014
         end_date: 2017
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: RKG Institute of Technology, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
         start_date: 2010
         end_date: 2014
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: HCL Technologies, Noida, India
         position: Software Engineer
         location: Noida, India
         start_date: 2009
         end_date: 2010
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
       - company: NG Tech Soft Pvt. Ltd., Noida, India
         position: Software Engineer
         location: Noida, India
         start_date: 2008
         end_date: 2009
+        summary: #Investigating LLMs for SE.
+        highlights:
+          #- Description 2
+          #- Description 2.
 
         
     Volunteer:
