@@ -258,7 +258,7 @@ cv:
         start_date: 2019-12-17
         end_date: 2023-08-31
 
-       - name: LEP19022
+      - name: LEP19022
         summary: "LEP19022: Applied Research for Developing a Cost-Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000."
         highlights:
           - Data modelling
