@@ -5,12 +5,12 @@
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
-  acm_id: # your dl.acm.org/profile/id
+  
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-  dblp_url: # your DBLP profile url
+  
 # discord_id: # your discord id (18-digit unique numerical identifier)
-  email: rahul.sharma@kit.edu # your email address
+  
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -25,29 +25,36 @@
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
   linkedin_username: irahuls
+  x_username: ItsdrRahul
+  whatsapp_number: +4915563031717
+  research_gate_profile: Rahul-Sharma-162
+  scholar_userid: ArBlXxUAAAAJ
+  scopus_id: 58592333800
+  orcid_id: 0000-0002-9024-8768
+  dblp_url: https://dblp.org/pid/22/846-11.html
+  acm_id: # your dl.acm.org/profile/id
+  email: rahul.sharma@kit.edu # your email address
+  rss_icon: true # comment this line to hide the RSS icon
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-  orcid_id: 0000-0002-9024-8768
+  
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
- research_gate_profile: Rahul-Sharma-162
- rss_icon: true # comment this line to hide the RSS icon
- scholar_userid: ArBlXxUAAAAJ # your Google Scholar ID
- scopus_id: 58592333800
- semanticscholar_id: # your Semantic Scholar ID
+ 
+# semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-  whatsapp_number: +4915563031717 (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+#(full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-  x_username: ItsdrRahul
+  
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
