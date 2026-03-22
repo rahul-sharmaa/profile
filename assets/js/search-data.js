@@ -51,14 +51,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown/";
-          },
-        },{id: "post-classrooms-in-the-year-2030",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "post-classrooms-in-the-year-2030",
         
           title: "Classrooms in the Year 2030",
         
