@@ -163,7 +163,6 @@ cv:
         summary: ""
         highlights: []
 
-    
     Awards:
       - title: XXX 
         authors:
@@ -195,7 +194,7 @@ cv:
         summary: This work applies Continuous Time Markov Chain modeling to analyze video-on-demand streaming behavior in multimedia systems, enabling performance evaluation and optimization of streaming services under varying user demand conditions.
   
       -  title: A Novel Framework for Unification of Association Rule Mining, Online Analytical Processing and Statistical Reasoning
-        authors:
+          authors:
           - Rahul Sharma
           - Minakshi Kaushik
           - Sijo Arakkal Peious
