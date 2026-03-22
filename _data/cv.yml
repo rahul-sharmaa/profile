@@ -180,74 +180,74 @@ cv:
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
-  Publications:
-    - title: Utilizing Continuous Time Markov Chain for Analyzing Video-on-Demand Streaming in Multimedia Systems
-      authors:
-        - Debjani Ghosh
-        -  Mayank Pandey
-        - Chakrapani Gautam
-        - Ankit Vidyarthi
-        - Rahul Sharma
-        - Dirk Draheim
-      publisher: Expert Systems with Applications
-      releaseDate: "2023"
-      url: https://doi.org/10.1016/j.eswa.2023.119857
-      summary: This work applies Continuous Time Markov Chain modeling to analyze video-on-demand streaming behavior in multimedia systems, enabling performance evaluation and optimization of streaming services under varying user demand conditions.
-
-    -  title: A Novel Framework for Unification of Association Rule Mining, Online Analytical Processing and Statistical Reasoning
-      authors:
-        - Rahul Sharma
-        - Minakshi Kaushik
-        - Sijo Arakkal Peious
-        - Alexandre Bazin
-        - Syed Attique Shah
-        - Iztok Fister
-        - Sadok Ben Yahia
-        - Dirk Draheim
-      publisher: IEEE Access
-      releaseDate: "2022"
-      url: https://doi.org/10.1109/ACCESS.2022.3142537
-      summary: This paper proposes a unified analytical framework integrating association rule mining, OLAP, and statistical reasoning, enabling comprehensive data analysis and decision-making across heterogeneous data systems.
-
-    - title: Machine Learning Assisted Methodology for Multiclass Classification of Malignant Brain Tumors
-      authors:
-        - Ankit Vidyarthi
-        - Ruchi Agarwal
-        - Deepak Gupta
-        - Rahul Sharma
-        - Dirk Draheim
-        - Prayag Tiwari
-      publisher: IEEE Access
-      releaseDate: "2022"
-      url: https://doi.org/10.1109/ACCESS.2022.3172303
-      summary: This study introduces a machine learning-based methodology for multiclass classification of malignant brain tumors, improving diagnostic accuracy and supporting clinical decision-making.
-
-    - title: An Exhaustive Multi-Aspect Analysis of Swarm Intelligence Algorithms in Numerical Association Rule Mining
-      authors:
-        - Minakshi Kaushik
-        - Rahul Sharma
-        - Pilleriin Koiva
-        - Iztok Fister
-        - Dirk Draheim
-      publisher: IEEE Access
-      releaseDate: "2024"
-      url: https://doi.org/10.1109/ACCESS.2024.3417334
-      summary: This work provides a comprehensive evaluation of swarm intelligence algorithms in numerical association rule mining, analyzing their effectiveness across multiple dimensions and real-world datasets.
-
-    - title: Mobile Smart Contracts: Exploring Scalability Challenges and Consensus Mechanisms
-      authors:
-        - Vipin Deval
-        - Vimal Dwivedi
-        - Abhishek Dixit
-        - Alex Norta
-        - Syed Attique Shah
-        - Rahul Sharma
-        - Dirk Draheim
-      publisher: IEEE Access
-      releaseDate: "2024"
-      url: https://doi.org/10.1109/ACCESS.2024.3371901
-      summary: This paper investigates scalability challenges in mobile smart contracts and explores consensus mechanisms to enhance performance and reliability in decentralized systems.
-      
+    Publications:
+      - title: Utilizing Continuous Time Markov Chain for Analyzing Video-on-Demand Streaming in Multimedia Systems
+        authors:
+          - Debjani Ghosh
+          -  Mayank Pandey
+          - Chakrapani Gautam
+          - Ankit Vidyarthi
+          - Rahul Sharma
+          - Dirk Draheim
+        publisher: Expert Systems with Applications
+        releaseDate: "2023"
+        url: https://doi.org/10.1016/j.eswa.2023.119857
+        summary: This work applies Continuous Time Markov Chain modeling to analyze video-on-demand streaming behavior in multimedia systems, enabling performance evaluation and optimization of streaming services under varying user demand conditions.
+  
+      -  title: A Novel Framework for Unification of Association Rule Mining, Online Analytical Processing and Statistical Reasoning
+        authors:
+          - Rahul Sharma
+          - Minakshi Kaushik
+          - Sijo Arakkal Peious
+          - Alexandre Bazin
+          - Syed Attique Shah
+          - Iztok Fister
+          - Sadok Ben Yahia
+          - Dirk Draheim
+        publisher: IEEE Access
+        releaseDate: "2022"
+        url: https://doi.org/10.1109/ACCESS.2022.3142537
+        summary: This paper proposes a unified analytical framework integrating association rule mining, OLAP, and statistical reasoning, enabling comprehensive data analysis and decision-making across heterogeneous data systems.
+  
+      - title: Machine Learning Assisted Methodology for Multiclass Classification of Malignant Brain Tumors
+        authors:
+          - Ankit Vidyarthi
+          - Ruchi Agarwal
+          - Deepak Gupta
+          - Rahul Sharma
+          - Dirk Draheim
+          - Prayag Tiwari
+        publisher: IEEE Access
+        releaseDate: "2022"
+        url: https://doi.org/10.1109/ACCESS.2022.3172303
+        summary: This study introduces a machine learning-based methodology for multiclass classification of malignant brain tumors, improving diagnostic accuracy and supporting clinical decision-making.
+  
+      - title: An Exhaustive Multi-Aspect Analysis of Swarm Intelligence Algorithms in Numerical Association Rule Mining
+        authors:
+          - Minakshi Kaushik
+          - Rahul Sharma
+          - Pilleriin Koiva
+          - Iztok Fister
+          - Dirk Draheim
+        publisher: IEEE Access
+        releaseDate: "2024"
+        url: https://doi.org/10.1109/ACCESS.2024.3417334
+        summary: This work provides a comprehensive evaluation of swarm intelligence algorithms in numerical association rule mining, analyzing their effectiveness across multiple dimensions and real-world datasets.
+  
+      - title: Mobile Smart Contracts: Exploring Scalability Challenges and Consensus Mechanisms
+        authors:
+          - Vipin Deval
+          - Vimal Dwivedi
+          - Abhishek Dixit
+          - Alex Norta
+          - Syed Attique Shah
+          - Rahul Sharma
+          - Dirk Draheim
+        publisher: IEEE Access
+        releaseDate: "2024"
+        url: https://doi.org/10.1109/ACCESS.2024.3371901
+        summary: This paper investigates scalability challenges in mobile smart contracts and explores consensus mechanisms to enhance performance and reliability in decentralized systems.
+        
 
     Skills:
       - name: Machine Learning, LLMs
