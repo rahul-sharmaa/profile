@@ -45,7 +45,7 @@ cv:
         highlights: []
 
       - institution: Uttar Pradesh Technical University (UPTU)
-        location: UP, India
+        location: Uttar Pradesh, India
         url: https://www.aktu.ac.in/
         area: Computer Science Engineering
         studyType: M.Tech.
@@ -56,7 +56,7 @@ cv:
         highlights: []
 
       - institution: Uttar Pradesh Technical University (UPTU)
-        location: UP, India
+        location: Uttar Pradesh, India
         url: https://www.aktu.ac.in/
         area: Computer Science Engineering
         studyType: B.Tech.
@@ -69,7 +69,7 @@ cv:
     Experience:
       - company: Karlsruhe Institute of Technology, Karlsruhe, Germany
         position: Sr. Scientist
-        location: KIT, Karlsruhe
+        location: Karlsruhe, Germany
         start_date: "2024"
         end_date: Present
         summary: Investigating LLMs for SE.
@@ -85,7 +85,7 @@ cv:
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Visiting Scientist
-        location: Tallinn, Estonia, EE
+        location: Tallinn, Estonia
         start_date: "2023"
         end_date: Present
         summary: Investigating LLMs for SE.
@@ -93,7 +93,7 @@ cv:
 
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
         position: Associate Dean, Innovation & Entrepreneurship (Advisory)
-        location: Tallinn, Estonia, EE
+        location: Tallinn, Estonia
         start_date: "2024"
         end_date: Present
         summary: Investigating LLMs for SE.
@@ -106,10 +106,8 @@ cv:
         end_date: "2024"
         summary: ""
         highlights: []
-
-        
-
-      - company: AKG University, Ghaziabad, India
+      
+      - company: AKG Engineering College, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
         start_date: "2023"
@@ -125,7 +123,7 @@ cv:
         summary: ""
         highlights: []
 
-      - company: AKG University, Ghaziabad, India
+      - company: AKG Engineering College, Ghaziabad, India
         position: Dean – Innovation, International Affairs & Alumni Relations
         location: Ghaziabad, India
         start_date: "2017"
@@ -133,7 +131,7 @@ cv:
         summary: ""
         highlights: []
 
-      - company: AKG University, Ghaziabad, India
+      - company: AKG Engineering College, Ghaziabad, India
         position: Assitant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
         start_date: "2014"
