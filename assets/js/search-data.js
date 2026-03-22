@@ -507,18 +507,67 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-acm',
-        title: 'ACM DL',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://dl.acm.org/profile//", "_blank");
+          window.open("https://www.linkedin.com/in/irahuls", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ItsdrRahul", "_blank");
+        },
+      },{
+        id: 'social-whatsapp',
+        title: 'whatsapp',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://wa.me/4915563031717", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Rahul-Sharma-162/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=ArBlXxUAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=58592333800", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-9024-8768", "_blank");
         },
       },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://dblp.org/pid/22/846-11.html", "_blank");
+        },
+      },{
+        id: 'social-acm',
+        title: 'ACM DL',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dl.acm.org/profile//", "_blank");
         },
       },{
         id: 'social-email',
@@ -528,18 +577,11 @@ ninja.data = [{
           window.open("mailto:%72%61%68%75%6C.%73%68%61%72%6D%61@%6B%69%74.%65%64%75", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-rss',
+        title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/irahuls", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-9024-8768", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
