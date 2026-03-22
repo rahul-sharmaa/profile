@@ -507,11 +507,18 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-acm',
+        title: 'ACM DL',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("https://dl.acm.org/profile//", "_blank");
+        },
+      },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
         id: 'social-email',
@@ -521,32 +528,39 @@ ninja.data = [{
           window.open("mailto:%72%61%68%75%6C.%73%68%61%72%6D%61@%6B%69%74.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-gitlab',
+        title: 'GitLab',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=ArBlXxUAAAAJ", "_blank");
+          window.open("https://gitlab.com/", "_blank");
         },
       },{
-        id: 'social-whatsapp',
-        title: 'whatsapp',
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://wa.me/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author//", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.rahul-sharma.com/", "_blank");
+          window.open("https://www.linkedin.com/in/irahuls", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-9024-8768", "_blank");
         },
       },{
       id: 'light-theme',
