@@ -542,13 +542,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=ArBlXxUAAAAJ", "_blank");
         },
       },{
-        id: 'social-scopus',
-        title: 'Scopus',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=58592333800", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -563,13 +556,6 @@ ninja.data = [{
           window.open("https://dblp.org/pid/22/846-11.html", "_blank");
         },
       },{
-        id: 'social-acm',
-        title: 'ACM DL',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dl.acm.org/profile//", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -582,6 +568,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=58592333800", "_blank");
         },
       },{
       id: 'light-theme',
