@@ -9,9 +9,9 @@ cv:
     - network: example
       username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: rahul-sharmaa
     - network: LinkedIn
-      username: example
+      username: rahul-sharmaa
 
   address:
     street: Am Fasanengarten 5
@@ -269,8 +269,7 @@ cv:
     References:
       - name: Professor Dirk Draheim
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
+        reference: 
       - name: Professor D C Singh
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: 
