@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rahul-sharmaa
+  #- alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
+  - rahul-sharmaa/SimpsonMitigator
+  - rahul-sharmaa/coding-interview-university
+  - rahul-sharmaa/Super-algorithm
+  - rahul-sharmaa/Data-Science-Books
+  - rahul-sharmaa/LLM4MC
   - mathjax/MathJax
   - jpswalsh/academicons
