@@ -1,13 +1,22 @@
 cv:
   name: Rahul Sharma
-  label: Sr. Scientist
+  label: Academic Leader | Institutional Strategist
   email: rahul.sharma@kit.edu
   location: Karlsruhe, Germany
   image: ""
-  summary: "A globally experienced academic leader with over 18+ years of academic leadership, research, and institutional development across India and Europe (Germany, Finland, Sweden, France, Estonia, Latvia). Recognized for driving university transformation through research intensity, internationalization, accreditation excellence, and AI-enabled digital governance. Secured and contributed to multi-million-euro competitive research funding, built global academic partnerships across 10+ countries and strengthened research ecosystems. Led institution-wide reforms aligned with NEP 2020, OBE CBCS, NAAC, NBA, NIRF, UGC ODL regulations (2020), embedding KPI-driven quality assurance, CRM/ERP/LMS-enabled governance, and outcomes-based academic frameworks. Committed to building globally competitive, innovation-led universities integrating research excellence, academic rigor, and societal impact."
+  summary: "Globally accomplished academic leader with over 18+ years of experience in higher education, research, and institutional transformation across India and Europe. Demonstrated expertise in leading universities through large-scale reforms aligned with NEP 2020, outcome-based education (OBE), and national/global accreditation frameworks including, QS,THE Ranking, NAAC, NBA and NIRF. Proven track record in building research-intensive universities, securing competitive international funding, and establishing strategic partnerships across global universities. Experienced in implementing Modern classrooms, AI-enabled digital governance systems (ERP, CRM, LMS) to enhance institutional efficiency, transparency, and scalability. Recognized for driving innovation ecosystems, internationalization, and academic excellence, with a strong commitment to developing globally competitive, industry-aligned, and socially impactful universities."
+  leadership_profile:
+    - University governance and strategic planning
+    - NEP 2020 implementation and academic reform
+    - Accreditation, quality assurance, and rankings
+    - Research funding and interdisciplinary collaboration
+    - Internationalization and global partnerships
+    - Innovation, entrepreneurship, and startup ecosystems
+    - Digital governance using ERP, CRM, and LMS
+    - Faculty development and institutional capacity building
   social_networks:
     - network: example
-      username: AlbertEinstein
+      username: test
     - network: GitHub
       username: rahul-sharmaa
     - network: LinkedIn
@@ -71,17 +80,24 @@ cv:
         position: Sr. Scientist
         location: Karlsruhe, Germany
         start_date: "2024"
-        end_date: Present
-        summary: Investigating LLMs for SE.
-        highlights: []
+        end_date: "Present"
+        summary: Leading research on Large Language Models for Software Engineering, with emphasis on model-driven engineering, intelligent automation,
+          and research collaboration.
+        highlights: [
+          - Advanced research in LLMs for software engineering
+          - Cross-border academic collaboration
+          - High-impact interdisciplinary research ]
 
       - company: AKG University, Ghaziabad, India
         position: Member, Board of Governors
         location: Ghaziabad, India
         start_date: "2024"
-        end_date: Present
-        summary: Investigating LLMs for SE.
-        highlights: []
+        end_date: "Present"
+        summary: Contributing to strategic governance, policy design, and long-term academic planning for institutional transformation.
+        highlights:   
+          - Governance and strategic advisory
+          - Policy alignment with NEP 2020
+          - Institutional modernization
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Visiting Scientist
@@ -95,16 +111,19 @@ cv:
         position: Associate Dean, Innovation & Entrepreneurship (Advisory)
         location: Tallinn, Estonia
         start_date: "2024"
-        end_date: Present
-        summary: Investigating LLMs for SE.
-        highlights: []
+        end_date: "Present"
+        summary: Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives.
+        highlights: 
+          - Innovation policy and entrepreneurship
+          - Incubation and technology transfer
+          - Industry-academia engagement
 
       - company: Nordea Bank Abp, Helsinki, Finland (EU)
         position: GFCP Senior Specialist – Enterprise Risk & Governance Analytics
         location: Helsinki, Finland
         start_date: "2023"
         end_date: "2024"
-        summary: ""
+        summary: "test"
         highlights: []
       
       - company: AKG Engineering College, Ghaziabad, India
@@ -112,7 +131,7 @@ cv:
         location: Ghaziabad, India
         start_date: "2023"
         end_date: "2024"
-        summary: ""
+        summary: "test"
         highlights: []
 
       - company: Tallinn University of Technology, Tallinn, Estonia
@@ -120,7 +139,7 @@ cv:
         location: Tallinn, Estonia, EE
         start_date: "2019"
         end_date: "2023"
-        summary: ""
+        summary: "test"
         highlights: []
 
       - company: AKG Engineering College, Ghaziabad, India
@@ -128,7 +147,7 @@ cv:
         location: Ghaziabad, India
         start_date: "2017"
         end_date: "2019"
-        summary: ""
+        summary: "test"
         highlights: []
 
       - company: AKG Engineering College, Ghaziabad, India
@@ -136,7 +155,7 @@ cv:
         location: Ghaziabad, India
         start_date: "2014"
         end_date: "2017"
-        summary: ""
+        summary: "test"
         highlights: []
 
       - company: RKG Institute of Technology, Ghaziabad, India
@@ -166,15 +185,13 @@ cv:
     Awards:
       - title: Best Teacher Award 
         authors: Rahul Sharma
-          - Test
         date: "2018"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
-        url: 
-        summary:
+        url: "test"
+        summary: ""
 
       - title: The Catalyst: For accelerating change.
         authors: Rahul Sharma
-          - Test
         date: "2023"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
         summary: Awarded for outstanding innovator of the year achievement
