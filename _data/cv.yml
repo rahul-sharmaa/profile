@@ -14,6 +14,7 @@ cv:
     - Innovation, entrepreneurship, and startup ecosystems
     - Digital governance using ERP, CRM, and LMS
     - Faculty development and institutional capacity building
+    
   social_networks:
     - network: example
       username: test
@@ -26,7 +27,7 @@ cv:
     street: Am Fasanengarten 5
     city: Karlsruhe, Germany
     region: BW
-    postalCode: 76131
+    postalCode: "76131"
     countryCode: DE
 
   sections:
@@ -81,19 +82,19 @@ cv:
         location: Karlsruhe, Germany
         start_date: "2024"
         end_date: "Present"
-        summary: Leading research on Large Language Models for Software Engineering, with emphasis on model-driven engineering, intelligent automation,
-          and research collaboration.
-        highlights: [
+        summary: "Leading research on Large Language Models for Software Engineering, with emphasis on model-driven engineering, intelligent automation,
+          and research collaboration."
+        highlights:
           - Advanced research in LLMs for software engineering
           - Cross-border academic collaboration
-          - High-impact interdisciplinary research ]
+          - High-impact interdisciplinary research
 
       - company: AKG University, Ghaziabad, India
         position: Member, Board of Governors
         location: Ghaziabad, India
         start_date: "2024"
         end_date: "Present"
-        summary: Contributing to strategic governance, policy design, and long-term academic planning for institutional transformation.
+        summary: "Contributing to strategic governance, policy design, and long-term academic planning for institutional transformation."
         highlights:   
           - Governance and strategic advisory
           - Policy alignment with NEP 2020
@@ -103,9 +104,12 @@ cv:
         position: Visiting Scientist
         location: Tallinn, Estonia
         start_date: "2023"
-        end_date: Present
-        summary: Investigating LLMs for SE.
-        highlights: []
+        end_date: "Present"
+        summary: "Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives."
+        highlights:
+          - Research Colleborations 
+          - Research Projects
+          - Research Supervision
 
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
         position: Associate Dean, Innovation & Entrepreneurship (Advisory)
@@ -123,7 +127,7 @@ cv:
         location: Helsinki, Finland
         start_date: "2023"
         end_date: "2024"
-        summary: "test"
+        summary: ""
         highlights: []
       
       - company: AKG Engineering College, Ghaziabad, India
@@ -131,7 +135,7 @@ cv:
         location: Ghaziabad, India
         start_date: "2023"
         end_date: "2024"
-        summary: "test"
+        summary: ""
         highlights: []
 
       - company: Tallinn University of Technology, Tallinn, Estonia
@@ -139,7 +143,7 @@ cv:
         location: Tallinn, Estonia, EE
         start_date: "2019"
         end_date: "2023"
-        summary: "test"
+        summary: ""
         highlights: []
 
       - company: AKG Engineering College, Ghaziabad, India
@@ -155,7 +159,7 @@ cv:
         location: Ghaziabad, India
         start_date: "2014"
         end_date: "2017"
-        summary: "test"
+        summary: ""
         highlights: []
 
       - company: RKG Institute of Technology, Ghaziabad, India
@@ -183,15 +187,17 @@ cv:
         highlights: []
 
     Awards:
-      - title: Best Teacher Award 
-        authors: Rahul Sharma
+      - title: Best Teacher Award
+        authors:
+          - Rahul Sharma
         date: "2018"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
-        url: "test"
+        url: ""
         summary: ""
 
       - title: The Catalyst: For accelerating change.
-        authors: Rahul Sharma
+        authors: 
+          - Rahul Sharma
         date: "2023"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
         summary: Awarded for outstanding innovator of the year achievement
@@ -326,5 +332,5 @@ cv:
     References:
       - name: Professor Dirk Draheim
         icon: fa-solid fa-envelope
-        reference: 
+        reference: ""
  
