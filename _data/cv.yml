@@ -164,20 +164,20 @@ cv:
         highlights: []
 
     Awards:
-      - title: XXX 
+      - title: Best Teacher Award 
         authors:
-          - Royal Swedish Academy of Sciences
-        date: "1921-11-01"
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - 
+        date: "2018"
+        awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
+        url: 
+        summary:
 
-      - title: Max Planck Medal
+      - title: The Catalyst: For accelerating change.
         authors:
-          - German Physical Society
-        date: "2029"
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - 
+        date: "2023"
+        awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
+        summary: Awarded for outstanding innovator of the year achievement
 
     Publications:
       - title: Utilizing Continuous Time Markov Chain for Analyzing Video-on-Demand Streaming in Multimedia Systems
@@ -288,28 +288,26 @@ cv:
           - Cyber-physical systems
           - Model Driven Software Engineering
         start_date: 2024-10-01
-        end_date: 2026-09-01
+        end_date: 2032
 
       - name: EITSA18020
         summary: "Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes."
         highlights:
           - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes
           - Designing and implementing scalable data-driven solutions within industrial use cases
-        start_date: 2019-12-17
-        end_date: 2023-08-31
+        start_date: 2019
+        end_date: 2023
 
       - name: LEP19022
         summary: "LEP19022: Applied Research for Developing a Cost-Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000."
         highlights:
           - Data modelling
           - System architecture
-        start_date: 2020-03-01
-        end_date: 2021-03-31
+        start_date: 2020
+        end_date: 2021
 
     References:
       - name: Professor Dirk Draheim
         icon: fa-solid fa-envelope
         reference: 
-      - name: Professor D C Singh
-        icon: fa-solid fa-envelope
-        reference: 
+ 
