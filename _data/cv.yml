@@ -4,7 +4,8 @@ cv:
   email: rahul.sharma@kit.edu
   location: Karlsruhe, Germany
   image: ""
-  summary: "Globally accomplished academic leader with over 18+ years of experience in higher education, research, and institutional transformation across India and Europe. Demonstrated expertise in leading universities through large-scale reforms aligned with NEP 2020, outcome-based education (OBE), and national/global accreditation frameworks including, QS,THE Ranking, NAAC, NBA and NIRF. Proven track record in building research-intensive universities, securing competitive international funding, and establishing strategic partnerships across global universities. Experienced in implementing Modern classrooms, AI-enabled digital governance systems (ERP, CRM, LMS) to enhance institutional efficiency, transparency, and scalability. Recognized for driving innovation ecosystems, internationalization, and academic excellence, with a strong commitment to developing globally competitive, industry-aligned, and socially impactful universities."
+  summary: "Globally accomplished academic leader with over 18+ years of experience in higher education, research, and institutional transformation across India and Europe. Demonstrated expertise in leading universities through large-scale reforms aligned with NEP 2020, outcome-based education (OBE), and national/global accreditation frameworks including QS, THE Ranking, NAAC, NBA, and NIRF. Proven track record in building research-intensive universities, securing competitive international funding, and establishing strategic partnerships across global universities. Experienced in implementing modern classrooms and AI-enabled digital governance systems (ERP, CRM, LMS) to enhance institutional efficiency, transparency, and scalability. Recognized for driving innovation ecosystems, internationalization, and academic excellence, with a strong commitment to developing globally competitive, industry-aligned, and socially impactful universities."
+
   leadership_profile:
     - University governance and strategic planning
     - NEP 2020 implementation and academic reform
@@ -14,7 +15,7 @@ cv:
     - Innovation, entrepreneurship, and startup ecosystems
     - Digital governance using ERP, CRM, and LMS
     - Faculty development and institutional capacity building
-    
+
   social_networks:
     - network: example
       username: test
@@ -25,7 +26,7 @@ cv:
 
   address:
     street: Am Fasanengarten 5
-    city: Karlsruhe, Germany
+    city: Karlsruhe
     region: BW
     postalCode: "76131"
     countryCode: DE
@@ -40,7 +41,8 @@ cv:
         start_date: "2024"
         end_date: "2025"
         score: ""
-        courses: LLM4SE
+        courses:
+          - LLM4SE
         highlights: []
 
       - institution: Tallinn University of Technology, Tallinn, Estonia
@@ -51,7 +53,7 @@ cv:
         start_date: "2019"
         end_date: "2023"
         score: ""
-        courses: ""
+        courses: []
         highlights: []
 
       - institution: Uttar Pradesh Technical University (UPTU)
@@ -62,7 +64,7 @@ cv:
         start_date: "2010"
         end_date: "2012"
         score: ""
-        courses: ""
+        courses: []
         highlights: []
 
       - institution: Uttar Pradesh Technical University (UPTU)
@@ -73,7 +75,7 @@ cv:
         start_date: "2004"
         end_date: "2008"
         score: ""
-        courses: ""
+        courses: []
         highlights: []
 
     Experience:
@@ -82,8 +84,7 @@ cv:
         location: Karlsruhe, Germany
         start_date: "2024"
         end_date: "Present"
-        summary: "Leading research on Large Language Models for Software Engineering, with emphasis on model-driven engineering, intelligent automation,
-          and research collaboration."
+        summary: "Leading research on Large Language Models for Software Engineering, with emphasis on model-driven engineering, intelligent automation, and research collaboration."
         highlights:
           - Advanced research in LLMs for software engineering
           - Cross-border academic collaboration
@@ -95,7 +96,7 @@ cv:
         start_date: "2024"
         end_date: "Present"
         summary: "Contributing to strategic governance, policy design, and long-term academic planning for institutional transformation."
-        highlights:   
+        highlights:
           - Governance and strategic advisory
           - Policy alignment with NEP 2020
           - Institutional modernization
@@ -105,31 +106,28 @@ cv:
         location: Tallinn, Estonia
         start_date: "2023"
         end_date: "Present"
-        summary: "Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives."
-        highlights:
-          - Research Colleborations 
-          - Research Projects
-          - Research Supervision
+        summary: "Conducting research in Large Language Models for Software Engineering."
+        highlights: []
 
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
-        position: Associate Dean, Innovation & Entrepreneurship (Advisory)
-        location: Tallinn, Estonia
+        position: "Associate Dean, Innovation & Entrepreneurship (Advisory)"
+        location: Lucknow, India
         start_date: "2024"
         end_date: "Present"
-        summary: Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives.
-        highlights: 
+        summary: "Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives."
+        highlights:
           - Innovation policy and entrepreneurship
           - Incubation and technology transfer
           - Industry-academia engagement
 
       - company: Nordea Bank Abp, Helsinki, Finland (EU)
-        position: GFCP Senior Specialist – Enterprise Risk & Governance Analytics
+        position: "GFCP Senior Specialist – Enterprise Risk & Governance Analytics"
         location: Helsinki, Finland
         start_date: "2023"
         end_date: "2024"
         summary: ""
         highlights: []
-      
+
       - company: AKG Engineering College, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
@@ -140,22 +138,22 @@ cv:
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Scientific Researcher
-        location: Tallinn, Estonia, EE
+        location: Tallinn, Estonia
         start_date: "2019"
         end_date: "2023"
         summary: ""
         highlights: []
 
       - company: AKG Engineering College, Ghaziabad, India
-        position: Dean – Innovation, International Affairs & Alumni Relations
+        position: "Dean – Innovation, International Affairs & Alumni Relations"
         location: Ghaziabad, India
         start_date: "2017"
         end_date: "2019"
-        summary: "test"
+        summary: ""
         highlights: []
 
       - company: AKG Engineering College, Ghaziabad, India
-        position: Assitant Professor and Head of Big Data Centre of Excellence
+        position: Assistant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
         start_date: "2014"
         end_date: "2017"
@@ -163,7 +161,7 @@ cv:
         highlights: []
 
       - company: RKG Institute of Technology, Ghaziabad, India
-        position: Assitant Professor and Head of Big Data Centre of Excellence
+        position: Assistant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
         start_date: "2010"
         end_date: "2014"
@@ -195,12 +193,13 @@ cv:
         url: ""
         summary: ""
 
-      - title: The Catalyst: For accelerating change.
-        authors: 
+      - title: "The Catalyst: For accelerating change."
+        authors:
           - Rahul Sharma
         date: "2023"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
-        summary: Awarded for outstanding innovator of the year achievement
+        url: ""
+        summary: "Awarded for outstanding innovator of the year achievement."
 
     Publications:
       - title: Utilizing Continuous Time Markov Chain for Analyzing Video-on-Demand Streaming in Multimedia Systems
@@ -214,7 +213,7 @@ cv:
         publisher: Expert Systems with Applications
         releaseDate: "2023"
         url: https://doi.org/10.1016/j.eswa.2023.119857
-        summary: This work applies Continuous Time Markov Chain modeling to analyze video-on-demand streaming behavior in multimedia systems, enabling performance evaluation and optimization of streaming services under varying user demand conditions.
+        summary: "This work applies Continuous Time Markov Chain modeling to analyze video-on-demand streaming behavior in multimedia systems, enabling performance evaluation and optimization of streaming services under varying user demand conditions."
 
       - title: A Novel Framework for Unification of Association Rule Mining, Online Analytical Processing and Statistical Reasoning
         authors:
@@ -229,7 +228,7 @@ cv:
         publisher: IEEE Access
         releaseDate: "2022"
         url: https://doi.org/10.1109/ACCESS.2022.3142537
-        summary: This paper proposes a unified analytical framework integrating association rule mining, OLAP, and statistical reasoning, enabling comprehensive data analysis and decision-making across heterogeneous data systems.
+        summary: "This paper proposes a unified analytical framework integrating association rule mining, OLAP, and statistical reasoning, enabling comprehensive data analysis and decision-making across heterogeneous data systems."
 
       - title: Machine Learning Assisted Methodology for Multiclass Classification of Malignant Brain Tumors
         authors:
@@ -242,7 +241,7 @@ cv:
         publisher: IEEE Access
         releaseDate: "2022"
         url: https://doi.org/10.1109/ACCESS.2022.3172303
-        summary: This study introduces a machine learning-based methodology for multiclass classification of malignant brain tumors, improving diagnostic accuracy and supporting clinical decision-making.
+        summary: "This study introduces a machine learning-based methodology for multiclass classification of malignant brain tumors, improving diagnostic accuracy and supporting clinical decision-making."
 
       - title: An Exhaustive Multi-Aspect Analysis of Swarm Intelligence Algorithms in Numerical Association Rule Mining
         authors:
@@ -254,7 +253,7 @@ cv:
         publisher: IEEE Access
         releaseDate: "2024"
         url: https://doi.org/10.1109/ACCESS.2024.3417334
-        summary: This work provides a comprehensive evaluation of swarm intelligence algorithms in numerical association rule mining, analyzing their effectiveness across multiple dimensions and real-world datasets.
+        summary: "This work provides a comprehensive evaluation of swarm intelligence algorithms in numerical association rule mining, analyzing their effectiveness across multiple dimensions and real-world datasets."
 
       - title: "Mobile Smart Contracts: Exploring Scalability Challenges and Consensus Mechanisms"
         authors:
@@ -268,25 +267,32 @@ cv:
         publisher: IEEE Access
         releaseDate: "2024"
         url: https://doi.org/10.1109/ACCESS.2024.3371901
-        summary: This paper investigates scalability challenges in mobile smart contracts and explores consensus mechanisms to enhance performance and reliability in decentralized systems.
+        summary: "This paper investigates scalability challenges in mobile smart contracts and explores consensus mechanisms to enhance performance and reliability in decentralized systems."
 
     Skills:
-      - name: Machine Learning, LLMs
+      - name: "Machine Learning, LLMs"
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: LLMs, MDE, SE
+        keywords:
+          - LLMs
+          - MDE
+          - SE
 
     Languages:
       - name: Hindi
         summary: Native speaker
-
       - name: English
         summary: Fluent
 
     Interests:
       - name: Artificial Intelligence
         icon: fa-solid fa-tag
-        keywords: Artificial Intelligence, Machine Learning, Large Language Models, Model Driven Software Engineering, Data Science
+        keywords:
+          - Artificial Intelligence
+          - Machine Learning
+          - Large Language Models
+          - Model Driven Software Engineering
+          - Data Science
 
     Certificates:
       - name: Machine Learning
@@ -310,27 +316,26 @@ cv:
         highlights:
           - Cyber-physical systems
           - Model Driven Software Engineering
-        start_date: 2024-10-01
-        end_date: 2032
+        start_date: "2024-10-01"
+        end_date: "2032"
 
       - name: EITSA18020
         summary: "Funded by the European Social Fund (ESF) and the Education Information Technology Foundation, this project focused on Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes."
         highlights:
-          - Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes
+          - "Artificial Intelligence, Machine Learning, Data Science, Big Data, Robot–Human Cooperation, and the Internet of Things in industrial processes"
           - Designing and implementing scalable data-driven solutions within industrial use cases
-        start_date: 2019
-        end_date: 2023
+        start_date: "2019"
+        end_date: "2023"
 
       - name: LEP19022
         summary: "LEP19022: Applied Research for Developing a Cost-Effective, Interchangeable 3D Spatial Data Infrastructure – Project Volume: EUR 1,916,000."
         highlights:
           - Data modelling
           - System architecture
-        start_date: 2020
-        end_date: 2021
+        start_date: "2020"
+        end_date: "2021"
 
     References:
       - name: Professor Dirk Draheim
         icon: fa-solid fa-envelope
         reference: ""
- 
