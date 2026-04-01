@@ -16,6 +16,13 @@ cv:
     - Digital governance using ERP, CRM, and LMS
     - Faculty development and institutional capacity building
 
+  honors_and_strengths:
+    - Built and supported research ecosystems across India and Europe
+    - Contributed to multi-million-euro competitive research projects
+    - Led institutional initiatives in innovation and internationalization
+    - Strengthened governance through KPI-driven quality frameworks
+    - Advanced AI, LLM, and data-driven academic transformation
+
   social_networks:
     - network: example
       username: test
@@ -334,6 +341,16 @@ cv:
           - System architecture
         start_date: "2020"
         end_date: "2021"
+
+    International_Engagement:
+      - region: Europe
+        countries:
+          - Germany
+          - Finland
+          - Sweden
+          - France
+          - Estonia
+          - Latvia
 
     References:
       - name: Professor Dirk Draheim
