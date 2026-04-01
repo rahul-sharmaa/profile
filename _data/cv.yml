@@ -165,16 +165,16 @@ cv:
 
     Awards:
       - title: Best Teacher Award 
-        authors:
-          - 
+        authors: Rahul Sharma
+          - Test
         date: "2018"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
         url: 
         summary:
 
       - title: The Catalyst: For accelerating change.
-        authors:
-          - 
+        authors: Rahul Sharma
+          - Test
         date: "2023"
         awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
         summary: Awarded for outstanding innovator of the year achievement
