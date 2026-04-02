@@ -191,9 +191,14 @@ cv:
         position: "Dean – Innovation, International Affairs & Alumni Relations"
         location: Ghaziabad, India
         start_date: "2017"
-        end_date: "2019"
+        end_date: "2024"
         summary: ""
-        highlights: []
+        highlights: 
+          - Architected and institutionalized a comprehensive innovation and entrepreneurship ecosystem, founding the IDEA Lab model, subsequently adopted by AICTE as a national policy framework, catalyzing nationwide replication across higher education institutions.
+          - Established and led the IPR Cell, creating a structured innovation-to-commercialization pipeline that resulted in 450+ patent filings within two years, including 200+ AICTE KAPILA-funded patents, significantly strengthening institutional research visibility and IP capacity.
+          - Positioned AKGEC as the \textbf{No. 1 ranked institution nationally in the Smart India Hackathon (MoE \& AICTE)}, reinforcing a culture of innovation excellence and student-led problem solving.}
+          - Strengthened global alumni engagement by activating a network of 15,000+ alumni worldwide, launching the Delhi Alumni Chapter, and expanding international alumni platforms to enhance mentorship, philanthropy, and institutional advocacy.
+          - Forged strategic partnerships with international universities, enabling collaborative research, student mobility, internships, joint programs, and global academic visibility.
 
       - company: AKG Engineering College, Ghaziabad, India
         position: Assistant Professor and Head of Big Data Centre of Excellence
@@ -201,7 +206,11 @@ cv:
         start_date: "2014"
         end_date: "2017"
         summary: ""
-        highlights: []
+        highlights: 
+          - Delivered undergraduate teaching in Data Mining, Data Science, and Database Systems, integrating research-led and industry-aligned pedagogical approaches.
+          - Established and Led the Big Data Centre of Excellence, advancing applied analytics training, industry engagement, and emerging technology adoption in data-driven systems.
+          - Contributed to curriculum design, program development, and academic quality enhancement initiatives, aligning courses with evolving technological and industry standards.
+          - Engaged in academic outreach, conferences, and technology forums to strengthen industry-academia linkage and incorporate best practices into teaching and research.
 
       - company: RKG Institute of Technology, Ghaziabad, India
         position: Assistant Professor and Head of Big Data Centre of Excellence
@@ -209,7 +218,10 @@ cv:
         start_date: "2010"
         end_date: "2014"
         summary: ""
-        highlights: []
+        highlights: 
+          - Conducting lectures for undergraduate students in various subjects of computer science and information technology.
+          - Making an effective contribution to teaching and learning in the discipline of computer science, modeling teamwork and flexibility to ensure the educational and commercial success of the faculty and University.
+          - Supervising undergraduate students, participating in scholarly activities that influence and enhance learning and teaching at the University.
 
       - company: HCL Technologies, Noida, India
         position: Software Engineer
@@ -217,7 +229,11 @@ cv:
         start_date: "2009"
         end_date: "2010"
         summary: ""
-        highlights: []
+        highlights:  
+          - Developed and maintained enterprise software solutions for clients, ensuring timely delivery and adherence to quality standards.
+          - Collaborated with cross-functional teams to design, implement, and test modules, improving overall system efficiency.
+          - Optimised existing codebases, resulting in improved performance and reduced execution time.
+          - Participated in requirement analysis and provided technical inputs for solution design, enhancing client satisfaction.
 
       - company: NG Tech Soft Pvt. Ltd., Noida, India
         position: Software Engineer
@@ -225,24 +241,33 @@ cv:
         start_date: "2008"
         end_date: "2009"
         summary: ""
-        highlights: []
+        highlights: 
+          - Implemented and supported SQL Server high-availability topologies (Windows Server Failover Clustering, Database Mirroring, Log Shipping) to meet client SLAs for uptime and recovery.
+          - Diagnosed and tuned performance bottlenecks using execution plan analysis, DMVs, SQL Profiler traces, and the Database Engine Tuning Advisor; optimized indexing and queries to improve throughput and reduce latency.
+          - Automated routine DBA tasks (backups, index maintenance, integrity checks, alerts) with T-SQL jobs and scripts, strengthening reliability and recoverability.
+          - Authored runbooks, root-cause analyses, and performance reports, improving incident response and stakeholder visibility.
 
+    
     Awards:
+      - title: The Catalyst Award
+        year: "2023"
+        issuer: Ajay Kumar Garg Engineering College
+        summary: Recognized for innovation leadership and institutional transformation impact
+    
       - title: Best Teacher Award
-        authors:
-          - Rahul Sharma
-        date: "2018"
-        awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
-        url: ""
-        summary: ""
-
-      - title: "The Catalyst: For accelerating change."
-        authors:
-          - Rahul Sharma
-        date: "2023"
-        awarder: Ajay Kumar Garg Engineering College, Ghaziabad, India
-        url: ""
-        summary: "Awarded for outstanding innovator of the year achievement."
+        year: "2018"
+        issuer: Ajay Kumar Garg Engineering College
+        summary: Awarded for excellence in teaching and academic mentorship
+    
+      - title: International Research & Collaboration Recognition
+        year: "2021
+        issuer: European Academic Institutions
+        summary: Recognition through participation in EU-funded projects and international research collaborations
+    
+      - title: Academic Leadership & Governance Roles
+        year: "2024"
+        issuer: Ajay Kumar Garg Engineering College,
+        summary: Appointment to Board of Governors and advisory roles in innovation and entrepreneurship
 
     Publications:
       - title: Utilizing Continuous Time Markov Chain for Analyzing Video-on-Demand Streaming in Multimedia Systems
