@@ -195,6 +195,16 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+.executive-summary {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.card h5 {
+  font-size: 1rem;
+  letter-spacing: 0.3px;
+}
+
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;
