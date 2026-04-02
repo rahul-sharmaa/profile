@@ -198,7 +198,7 @@ cv:
         highlights: 
           - Architected and institutionalized a comprehensive innovation and entrepreneurship ecosystem, founding the IDEA Lab model, subsequently adopted by AICTE as a national policy framework, catalyzing nationwide replication across higher education institutions.
           - Established and led the IPR Cell, creating a structured innovation-to-commercialization pipeline that resulted in 450+ patent filings within two years, including 200+ AICTE KAPILA-funded patents, significantly strengthening institutional research visibility and IP capacity.
-          - Positioned AKGEC as the No. 1 ranked institution nationally in the Smart India Hackathon (MoE & AICTE), reinforcing a culture of innovation excellence and student-led problem solving.}
+          - Positioned AKGEC as the No. 1 ranked institution nationally in the Smart India Hackathon (MoE & AICTE), reinforcing a culture of innovation excellence and student-led problem solving.
           - Strengthened global alumni engagement by activating a network of 15,000+ alumni worldwide, launching the Delhi Alumni Chapter, and expanding international alumni platforms to enhance mentorship, philanthropy, and institutional advocacy.
           - Forged strategic partnerships with international universities, enabling collaborative research, student mobility, internships, joint programs, and global academic visibility.
 
@@ -272,10 +272,10 @@ cv:
     
       - title: Academic Leadership & Governance Roles
         year: "2024"
-        issuer: Ajay Kumar Garg Engineering College,
+        issuer: Ajay Kumar Garg Engineering College
         summary: Appointment to Board of Governors and advisory roles in innovation and entrepreneurship
 
-    Publications:
+    Selected Publications:
       - title: Utilizing Continuous Time Markov Chain for Analyzing Video-on-Demand Streaming in Multimedia Systems
         authors:
           - Debjani Ghosh
@@ -344,7 +344,7 @@ cv:
         summary: "This paper investigates scalability challenges in mobile smart contracts and explores consensus mechanisms to enhance performance and reliability in decentralized systems."
 
     Skills:
-      - name: "Machine Learning, LLMs"
+      - name: "Machine Learning, LLMs, Artificial Intelligence"
         level: Master
         icon: fa-solid fa-hashtag
         keywords:
@@ -384,7 +384,7 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
-    Projects:
+    Research Projects & Funding:
       - name: CRC/SFB 1608
         summary: "CRC Convide Project – Convide is a Collaborative Research Centre (CRC 1608) funded by the German Research Foundation (DFG), focusing on digitalisation in engineering design and consistency management across cyber-physical systems."
         highlights:
@@ -409,7 +409,7 @@ cv:
         start_date: "2020"
         end_date: "2021"
 
-    International_Engagement:
+    International Engagements:
       - region: Europe
         countries:
           - Germany
