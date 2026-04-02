@@ -410,14 +410,41 @@ cv:
         end_date: "2021"
 
     International Engagements:
-      - region: Europe
-        countries:
-          - Germany
-          - Finland
-          - Sweden
-          - France
-          - Estonia
-          - Latvia
+      - title: Global Academic Partnerships & International Engagements
+        summary: >
+          Academic leader with a strong international footprint across Europe and Asia,
+          advancing world-class research and internationalization of higher education
+          through strategic university partnerships, cross-border research collaborations,
+          and academic diplomacy.
+        regions:
+          - title: Europe — Strategic Research Partnerships
+            items:
+              - Technical University of Munich
+              - Karlsruhe Institute of Technology
+              - Aalto University
+              - TU Wien
+              - Ruhr-University Bochum
+              - University of Mannheim
+              - Tallinn University of Technology
+          - title: International Research Ecosystem Integration
+            items:
+              - DFG
+              - Estonian Research Council
+              - Archimedes Foundation
+              - European Social Fund
+          - title: Academic Diplomacy & Institutional Representation
+            items:
+              - Germany
+              - Austria
+              - Italy
+              - Estonia
+              - Indonesia
+              - Vietnam
+              - India
+        highlights:
+          - Joint research initiatives and doctoral collaboration
+          - Faculty exchange, student mobility, and dual-degree pathways
+          - Knowledge transfer in AI, data science, and software engineering
 
     References:
       - name: Professor Dirk Draheim
