@@ -124,11 +124,18 @@ layout: default
         {% if cv.leadership_profile %}
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Leadership Profile</h3>
-            <ul class="list-group list-group-flush">
+            <div class="row">
               {% for item in cv.leadership_profile %}
-                <li class="list-group-item">{{ item }}</li>
+                <div class="col-12 col-md-6 mb-3">
+                  <div class="border rounded p-3 h-100">
+                    <div class="d-flex align-items-start">
+                      <i class="fa-solid fa-circle-check mr-2 mt-1"></i>
+                      <div class="font-weight-light">{{ item }}</div>
+                    </div>
+                  </div>
+                </div>
               {% endfor %}
-            </ul>
+            </div>
           </div>
         {% endif %}
 
