@@ -1,12 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Profile Dr. Rahul Sharma
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/example_pdf.pdf
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page.
+description:
 toc:
 sidebar: left
 ---
