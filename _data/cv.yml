@@ -36,8 +36,6 @@ cv:
     - Advanced AI, LLM, and data-driven academic transformation
 
   social_networks:
-    - network: example
-      username: test
     - network: GitHub
       username: rahul-sharmaa
     - network: LinkedIn
@@ -127,6 +125,7 @@ cv:
       - company: AKG Engineering College, Ghaziabad, India
         position: Professor and Head of the Department
         location: Ghaziabad, India
+        url: https://www.akgec.ac.in/
         start_date: "2023"
         end_date: "2024"
         summary: ""
@@ -140,6 +139,7 @@ cv:
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
         position: "Associate Dean, Innovation & Entrepreneurship (Advisory)"
         location: Lucknow, India
+        url: https://www.aktu.ac.in/
         start_date: "2024"
         end_date: "Present"
         summary: "Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives."
@@ -178,6 +178,7 @@ cv:
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Scientific Researcher
         location: Tallinn, Estonia
+        url: https://taltech.ee/en
         start_date: "2019"
         end_date: "2023"
         summary: ""
@@ -190,19 +191,21 @@ cv:
       - company: AKG Engineering College, Ghaziabad, India
         position: "Dean – Innovation, International Affairs & Alumni Relations"
         location: Ghaziabad, India
+        url: https://www.akgec.ac.in/
         start_date: "2017"
         end_date: "2024"
         summary: ""
         highlights: 
           - Architected and institutionalized a comprehensive innovation and entrepreneurship ecosystem, founding the IDEA Lab model, subsequently adopted by AICTE as a national policy framework, catalyzing nationwide replication across higher education institutions.
           - Established and led the IPR Cell, creating a structured innovation-to-commercialization pipeline that resulted in 450+ patent filings within two years, including 200+ AICTE KAPILA-funded patents, significantly strengthening institutional research visibility and IP capacity.
-          - Positioned AKGEC as the \textbf{No. 1 ranked institution nationally in the Smart India Hackathon (MoE \& AICTE)}, reinforcing a culture of innovation excellence and student-led problem solving.}
+          - Positioned AKGEC as the No. 1 ranked institution nationally in the Smart India Hackathon (MoE & AICTE), reinforcing a culture of innovation excellence and student-led problem solving.}
           - Strengthened global alumni engagement by activating a network of 15,000+ alumni worldwide, launching the Delhi Alumni Chapter, and expanding international alumni platforms to enhance mentorship, philanthropy, and institutional advocacy.
           - Forged strategic partnerships with international universities, enabling collaborative research, student mobility, internships, joint programs, and global academic visibility.
 
       - company: AKG Engineering College, Ghaziabad, India
         position: Assistant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
+        url: https://www.akgec.ac.in/
         start_date: "2014"
         end_date: "2017"
         summary: ""
@@ -215,6 +218,7 @@ cv:
       - company: RKG Institute of Technology, Ghaziabad, India
         position: Assistant Professor and Head of Big Data Centre of Excellence
         location: Ghaziabad, India
+        url: https://rkgit.edu.in/
         start_date: "2010"
         end_date: "2014"
         summary: ""
@@ -226,6 +230,7 @@ cv:
       - company: HCL Technologies, Noida, India
         position: Software Engineer
         location: Noida, India
+        url: https://www.hcltech.com/
         start_date: "2009"
         end_date: "2010"
         summary: ""
@@ -238,6 +243,7 @@ cv:
       - company: NG Tech Soft Pvt. Ltd., Noida, India
         position: Software Engineer
         location: Noida, India
+        url: https://www.hcltech.com/
         start_date: "2008"
         end_date: "2009"
         summary: ""
