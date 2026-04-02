@@ -115,10 +115,34 @@ layout: default
         <!-- Summary -->
         {% if cv.summary %}
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Professional Summary</h3>
+            <h3 class="card-title font-weight-medium">Executive Summary</h3>
             <p>{{ cv.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
         {% endif %}
+
+        {% if cv.leadership_profile %}
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Leadership Profile</h3>
+          <ul class="list-group list-group-flush">
+            {% for item in cv.leadership_profile %}
+              <li class="list-group-item">{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        
+        {% if cv.strategic_impact %}
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Strategic Impact</h3>
+          <ul class="list-group list-group-flush">
+            {% for item in cv.strategic_impact %}
+              <li class="list-group-item">{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+
+
 
         <!-- RenderCV Sections - Merge Experience and Volunteer -->
         {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
