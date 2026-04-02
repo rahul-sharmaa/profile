@@ -54,7 +54,7 @@ cv:
     Education:
       - institution: Karlsruhe Institute of Technology, Karlsruhe, Germany
         location: Karlsruhe, Germany
-        url: https://www.kit.edu/
+        url: https://www.kit.edu/english/
         area: LLMs for Model Driven Software Engineering
         studyType: Post Doctoral Fellowship
         start_date: "2024"
@@ -101,40 +101,41 @@ cv:
       - company: Karlsruhe Institute of Technology, Karlsruhe, Germany
         position: Sr. Scientist
         location: Karlsruhe, Germany
-        url: https://www.aktu.ac.in/
+        url: https://www.kit.edu/english/
         start_date: "2024"
         end_date: "Present"
         summary: "Leading research on Large Language Models for Software Engineering, with emphasis on model-driven engineering, intelligent automation, and research collaboration."
         highlights:
-          - Advanced research in LLMs for software engineering
-          - Cross-border academic collaboration
-          - High-impact interdisciplinary research
-          - Leading a research on semantic alignment and consistency checking across heterogeneous software modelling frameworks (PREEvision, APP4MC/Amalthea, and ROS 2), achieving measurable mappings and benchmark datasets.
-          - Contributing in the Collaborative Research Centre (CRC) 1608 CONVIDE project as a Sr. Scientist, funded by the Deutsche Forschungsgemeinschaft (DFG)
-          - Exploring the use of LLMs to support semantic alignment, consistency checking, model reusability, design space exploration, and requirements traceability in complex engineering toolchains.
-          - Supervising doctoral and master's students, contributing to capacity building and strengthening research leadership in the area of trustworthy AI for CPS.
+          - Contributing in the Collaborative Research Centre (CRC) 1608 CONVIDE project as a Sr. Scientist, funded by the Deutsche Forschungsgemeinschaft (DFG).
           - Providing intellectual leadership in defining research directions, coordinating interdisciplinary teams, and fostering collaborations across institutions.
-          - Actively collaborating within CONVIDE with leading institutions alongside KIT—TU Munich, University of Mannheim, Ruhr-University Bochum, and TU Dresden to advance research on AI-driven consistency management and CPS engineering.
+          - Actively collaborating with leading institutions alongside KIT, TU Munich, University of Mannheim, Ruhr-University Bochum, and TU Dresden to advance research on AI-driven consistency management and CPS engineering.
           - Coordinating joint research workshops, contributing to strategic planning, dissemination, and leadership in international research forums.
 
       - company: AKG University, Ghaziabad, India
         position: Member, Board of Governors
         location: Ghaziabad, India
+        url: https://www.akgec.ac.in/about/management/
         start_date: "2024"
         end_date: "Present"
         summary: "Contributing to strategic governance, policy design, and long-term academic planning for institutional transformation."
         highlights:
-          - Governance and strategic advisory
-          - Policy alignment with NEP 2020
-          - Institutional modernization
+          - Provide strategic oversight on establishing a new state university, institutional governance, academic policy, research expansion, and long-term growth strategy.
+          - Advise on curriculum transformation, faculty excellence frameworks, accreditation preparedness, and integration of emerging technologies.
+          - Strengthen industry-academia linkages, infrastructure planning, and international partnerships to enhance institutional competitiveness and visibility.
+          - Contribute to high-level decision-making on institutional performance, quality assurance, and strategic positioning within national higher education frameworks.
 
       - company: Tallinn University of Technology, Tallinn, Estonia
-        position: Visiting Scientist
+        position: Visiting Professor
         location: Tallinn, Estonia
         start_date: "2023"
         end_date: "Present"
         summary: "Conducting research in Large Language Models for Software Engineering."
-        highlights: []
+        highlights: 
+          - Providing research leadership in AI-driven Natural Language Processing (NLP) systems
+          - Contributing to large-scale funded research programmes supported by the Estonian Research Council, Archimedes Foundation, and the European Social Fund.
+          - Collaborating with interdisciplinary international consortia to develop prototype systems bridging structured data architectures and human-centric digital interfaces.
+          - Supervising doctoral and Master’s researchers, contributing to research capacity building and advancing trustworthy AI in eID and public digital governance systems.
+     
 
       - company: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
         position: "Associate Dean, Innovation & Entrepreneurship (Advisory)"
@@ -143,17 +144,22 @@ cv:
         end_date: "Present"
         summary: "Advising on innovation strategy, startup ecosystem development, and industry-aligned academic initiatives."
         highlights:
-          - Innovation policy and entrepreneurship
-          - Incubation and technology transfer
-          - Industry-academia engagement
-
+          - Provide strategic oversight on establishing a new state university, institutional governance, academic policy, research expansion, and long-term growth strategy.
+          - Advise on curriculum transformation, faculty excellence frameworks, accreditation preparedness, and integration of emerging technologies.
+          - Strengthen industry-academia linkages, infrastructure planning, and international partnerships to enhance institutional competitiveness and visibility.
+          - Contribute to high-level decision-making on university positioning within national higher education frameworks.
+ 
       - company: Nordea Bank Abp, Helsinki, Finland (EU)
         position: "GFCP Senior Specialist – Enterprise Risk & Governance Analytics"
         location: Helsinki, Finland
         start_date: "2023"
         end_date: "2024"
         summary: ""
-        highlights: []
+        highlights:      
+          - Led cross-functional coordination across technology, compliance, and operations teams, strengthening organizational risk culture and enterprise-wide control environments.
+          - Provided strategic leadership in enterprise risk analytics, delivering data-driven intelligence to support executive decision-making, governance oversight, and long-term institutional resilience.
+          - Strengthened enterprise-wide financial crime risk frameworks (AML, sanctions, compliance), identifying systemic vulnerabilities and reinforcing regulatory governance across cross-border operations.
+          - Established KPI-driven risk dashboards and reporting mechanisms for senior leadership, improving accountability, audit readiness, and regulatory alignment.
 
       - company: AKG Engineering College, Ghaziabad, India
         position: Professor and Head of the Department
@@ -161,7 +167,13 @@ cv:
         start_date: "2023"
         end_date: "2024"
         summary: ""
-        highlights: []
+        highlights: 
+          - Led strategic transformation of the department through outcomes-based academic governance, resulting in the highest number of university rank-holders and gold medalists
+          - Reengineered the research and innovation ecosystem by strengthening faculty capability, expanding competitive funding participation, and fostering industry–international collaborations aligned with emerging technology domains.
+          - Mobilized external funding (INR 1.25 Million under AICTE and DST schemes) to advance institutional research priorities in Artificial Intelligence, Data Science, and Industry 4.0.
+          - Conceptualized and institutionalized industry-integrated Centres of Excellence including, AI CoE, AWS Academy, AR/VR Centre of Excellence, Big Data Centre of Excellence, Google Development Centre, and Centre for Digital Learning,  
+          - Elevated institution's global visibility by founding and leading two IEEE and Springer International Conferences, positioning the department within global research and innovation networks.
+        \end{cvitems}
 
       - company: Tallinn University of Technology, Tallinn, Estonia
         position: Scientific Researcher
@@ -169,7 +181,11 @@ cv:
         start_date: "2019"
         end_date: "2023"
         summary: ""
-        highlights: []
+        highlights: 
+          - Involved in securing and managing competitive research funding across multiple European Union–funded projects.
+          - Played a key role in developing proposals and driving research funding initiatives across Europe.
+          - Served as a Researcher in the Information Systems Group, contributing to teaching, supervision, and research activities.
+          - Supervised Bachelor’s and Master’s students and delivered lectures and facilitated seminars at undergraduate and graduate levels across courses on Data Mining and Data Science.
 
       - company: AKG Engineering College, Ghaziabad, India
         position: "Dean – Innovation, International Affairs & Alumni Relations"
