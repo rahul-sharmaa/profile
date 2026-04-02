@@ -9,14 +9,24 @@ cv:
   summary: "Globally accomplished academic leader with over 18+ years of experience in higher education, research, and institutional transformation across India and Europe. Demonstrated expertise in leading universities through large-scale reforms aligned with NEP 2020, outcome-based education (OBE), and national/global accreditation frameworks including QS, THE Ranking, NAAC, NBA, and NIRF. Proven track record in building research-intensive universities, securing competitive international funding, and establishing strategic partnerships across global universities. Experienced in implementing modern classrooms and AI-enabled digital governance systems (ERP, CRM, LMS) to enhance institutional efficiency, transparency, and scalability. Recognized for driving innovation ecosystems, internationalization, and academic excellence, with a strong commitment to developing globally competitive, industry-aligned, and socially impactful universities."
 
   leadership_profile:
-    - University governance and strategic planning
-    - NEP 2020 implementation and academic reform
-    - Accreditation, quality assurance, and rankings
-    - Research funding and interdisciplinary collaboration
-    - Internationalization and global partnerships
-    - Innovation, entrepreneurship, and startup ecosystems
-    - Digital governance using ERP, CRM, and LMS
-    - Faculty development and institutional capacity building
+  - title: Governance & Strategy
+    items:
+      - University governance and strategic planning
+      - Institutional transformation and change leadership
+      - Policy design and regulatory alignment
+
+  - title: Academic Excellence & Quality
+    items:
+      - Accreditation, rankings, and quality assurance (NAAC, NBA, NIRF)
+      - Outcome-based education and curriculum modernization
+      - Faculty development and academic leadership
+
+  - title: Research & Innovation
+    items:
+      - Research leadership and competitive funding
+      - Internationalization and global partnerships
+      - Innovation, entrepreneurship, and ecosystem building
+      - AI-enabled digital transformation
 
   honors_and_strengths:
     - Built and supported research ecosystems across India and Europe
