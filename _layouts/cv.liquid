@@ -124,31 +124,28 @@ layout: default
         {% if cv.leadership_profile %}
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Leadership Profile</h3>
+          
             <div class="row">
-              {% for item in cv.leadership_profile %}
-                <div class="col-12 col-md-6 mb-3">
+              {% for pillar in cv.leadership_profile %}
+                <div class="col-12 col-md-4 mb-3">
                   <div class="border rounded p-3 h-100">
-                    <div class="d-flex align-items-start">
-                      <i class="fa-solid fa-circle-check mr-2 mt-1"></i>
-                      <div class="font-weight-light">{{ item }}</div>
-                    </div>
+          
+                    <h5 class="font-weight-bold mb-2">
+                      {{ pillar.title }}
+                    </h5>
+          
+                    <ul class="pl-3 mb-0">
+                      {% for item in pillar.items %}
+                        <li class="font-weight-light mb-1">{{ item }}</li>
+                      {% endfor %}
+                    </ul>
+          
                   </div>
                 </div>
               {% endfor %}
             </div>
           </div>
-        {% endif %}
-
-        {% if cv.strategic_impact %}
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Strategic Impact</h3>
-            <ul class="list-group list-group-flush">
-              {% for item in cv.strategic_impact %}
-                <li class="list-group-item">{{ item }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        {% endif %}
+          {% endif %}
 
         <!-- RenderCV Sections in executive-first order -->
         {% assign empty_array = '' | split: ',' %}
