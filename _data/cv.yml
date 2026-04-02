@@ -254,24 +254,24 @@ cv:
           - Authored runbooks, root-cause analyses, and performance reports, improving incident response and stakeholder visibility.
 
     
-    Awards:
+     Awards:
       - title: The Catalyst Award
-        year: "2023"
+        start_date: "2023"
         issuer: Ajay Kumar Garg Engineering College
         summary: Recognized for innovation leadership and institutional transformation impact
     
       - title: Best Teacher Award
-        year: "2018"
+        start_date: "2018"
         issuer: Ajay Kumar Garg Engineering College
         summary: Awarded for excellence in teaching and academic mentorship
     
       - title: International Research & Collaboration Recognition
-        year: "2021"
+        start_date: "2021"
         issuer: European Academic Institutions
         summary: Recognition through participation in EU-funded projects and international research collaborations
     
       - title: Academic Leadership & Governance Roles
-        year: "2024"
+        start_date: "2024"
         issuer: Ajay Kumar Garg Engineering College
         summary: Appointment to Board of Governors and advisory roles in innovation and entrepreneurship
 
