@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-profile-dr-rahul-sharma",
-          title: "Profile Dr. Rahul Sharma",
+        },{id: "nav-profile",
+          title: "Profile",
           description: "",
           section: "Navigation",
           handler: () => {
