@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-03'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -62,7 +62,7 @@ papers:
     title: 'Discretizing Numerical Attributes: An Analysis of Human Perceptions'
     year: '2022'
   ArBlXxUAAAAJ:SeFeTyx0c_EC:
-    citations: 11
+    citations: 12
     title: 'Impact-driven discretization of numerical factors: case of two-and three-partitioning'
     year: '2021'
   ArBlXxUAAAAJ:URolC5Kub84C:
@@ -82,7 +82,7 @@ papers:
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
   ArBlXxUAAAAJ:bFI3QPDXJZMC:
-    citations: 22
+    citations: 23
     title: 'Numerical association rule mining: a systematic literature review'
     year: '2023'
   ArBlXxUAAAAJ:cFHS6HbyZ2cC:
@@ -106,7 +106,7 @@ papers:
     title: 'Big data analytics in association rule mining: A systematic literature review'
     year: '2021'
   ArBlXxUAAAAJ:hMsQuOkrut0C:
-    citations: 0
+    citations: 1
     title: Towards Class Diagram Generation from User Stories Using LLMs
     year: '2025'
   ArBlXxUAAAAJ:ldfaerwXgEUC:
