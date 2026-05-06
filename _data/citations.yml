@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-06'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -46,7 +46,7 @@ papers:
     title: 'Leveraging Hashgraph Technology in Pharmaceutical Supply Chains: A Case Study'
     year: '2025'
   ArBlXxUAAAAJ:KUbvn5osdkgC:
-    citations: 1
+    citations: 2
     title: An Exhaustive Multi-Aspect Analysis of Swarm Intelligence Algorithms in Numerical Association Rule Mining
     year: '2024'
   ArBlXxUAAAAJ:L7CI7m0gUJcC:
@@ -78,7 +78,7 @@ papers:
     title: A novel framework for unification of association rule mining, online analytical processing and statistical reasoning
     year: '2022'
   ArBlXxUAAAAJ:a0OBvERweLwC:
-    citations: 103
+    citations: 104
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
   ArBlXxUAAAAJ:bFI3QPDXJZMC:
@@ -110,7 +110,7 @@ papers:
     title: Towards Class Diagram Generation from User Stories Using LLMs
     year: '2025'
   ArBlXxUAAAAJ:ldfaerwXgEUC:
-    citations: 31
+    citations: 32
     title: On the potential of numerical association rule mining
     year: '2020'
   ArBlXxUAAAAJ:p__nRnzSRKYC:
@@ -150,7 +150,7 @@ papers:
     title: On Choosing the Columnar In-Memory Database Hyrise as High-Performant Implementation Platform for the GrandReport Tool
     year: '2025'
   ArBlXxUAAAAJ:yD5IFk8b50cC:
-    citations: 14
+    citations: 15
     title: 'Towards unification of statistical reasoning, OLAP and association rule mining: semantics and pragmatics'
     year: '2022'
   ArBlXxUAAAAJ:zA6iFVUQeVQC:
