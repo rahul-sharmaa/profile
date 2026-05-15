@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-15'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -14,11 +14,11 @@ papers:
     title: 'Existence of the yule-simpson effect: an experiment with continuous data'
     year: '2022'
   ArBlXxUAAAAJ:4MWp96NkSFoC:
-    citations: 10
+    citations: 11
     title: 'Barriers to digital transformation of the silver economy: Challenges to adopting digital skills by the silver generation'
     year: '2023'
   ArBlXxUAAAAJ:70eg2SAEIzsC:
-    citations: 28
+    citations: 31
     title: 'Expected vs. Unexpected: Selecting Right Measures of Interestingness'
     year: Unknown Year
   ArBlXxUAAAAJ:AvfA0Oy_GE0C:
@@ -26,7 +26,7 @@ papers:
     title: 'Why Not to Trust Big Data: Discussing'
     year: '2022'
   ArBlXxUAAAAJ:BUYA1_V_uYcC:
-    citations: 26
+    citations: 27
     title: 'Mobile smart contracts: exploring scalability challenges and consensus mechanisms'
     year: '2024'
   ArBlXxUAAAAJ:BwyfMAYsbu0C:
@@ -78,7 +78,7 @@ papers:
     title: A novel framework for unification of association rule mining, online analytical processing and statistical reasoning
     year: '2022'
   ArBlXxUAAAAJ:a0OBvERweLwC:
-    citations: 104
+    citations: 106
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
   ArBlXxUAAAAJ:bFI3QPDXJZMC:
