@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-15'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -46,7 +46,7 @@ papers:
     title: 'Leveraging Hashgraph Technology in Pharmaceutical Supply Chains: A Case Study'
     year: '2025'
   ArBlXxUAAAAJ:KUbvn5osdkgC:
-    citations: 2
+    citations: 3
     title: An Exhaustive Multi-Aspect Analysis of Swarm Intelligence Algorithms in Numerical Association Rule Mining
     year: '2024'
   ArBlXxUAAAAJ:L7CI7m0gUJcC:
@@ -54,17 +54,25 @@ papers:
     title: 'On Measuring Confounding Bias in Mixed Multidimensional Data: Case of Coerced Multiple Linear Regression Adjustment'
     year: '2024'
   ArBlXxUAAAAJ:M05iB0D1s5AC:
-    citations: 77
+    citations: 78
     title: A systematic assessment of numerical association rule mining methods
     year: '2021'
   ArBlXxUAAAAJ:ML0RJ9NH7IQC:
     citations: 0
     title: 'Discretizing Numerical Attributes: An Analysis of Human Perceptions'
     year: '2022'
+  ArBlXxUAAAAJ:MLfJN-KU85MC:
+    citations: 1
+    title: Modified Desert Cooler to Split Desert Cooler
+    year: '2019'
   ArBlXxUAAAAJ:SeFeTyx0c_EC:
     citations: 12
     title: 'Impact-driven discretization of numerical factors: case of two-and three-partitioning'
     year: '2021'
+  ArBlXxUAAAAJ:TIZ-Mc8IlK0C:
+    citations: 8
+    title: Design and analysis of space frame tubular chassis to be used in formula SAE
+    year: '2015'
   ArBlXxUAAAAJ:URolC5Kub84C:
     citations: 0
     title: Future Opportunities for Systematic AI Support in Healthcare
@@ -74,13 +82,17 @@ papers:
     title: "Detecting Simpson\u2019s Paradox: A Step Towards Fairness in Machine Learning"
     year: '2022'
   ArBlXxUAAAAJ:ZHo1McVdvXMC:
-    citations: 22
+    citations: 23
     title: A novel framework for unification of association rule mining, online analytical processing and statistical reasoning
     year: '2022'
   ArBlXxUAAAAJ:a0OBvERweLwC:
-    citations: 106
+    citations: 109
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
+  ArBlXxUAAAAJ:b1wdh0AR-JQC:
+    citations: 6
+    title: Birdstrike simulation of an aircraft wing
+    year: '2014'
   ArBlXxUAAAAJ:bFI3QPDXJZMC:
     citations: 25
     title: 'Numerical association rule mining: a systematic literature review'
@@ -102,15 +114,23 @@ papers:
     title: 'Advancing Digital Services and e-Signature: a Case Study of Azerbaijan'
     year: '2025'
   ArBlXxUAAAAJ:g5m5HwL7SMYC:
-    citations: 45
+    citations: 46
     title: 'Big data analytics in association rule mining: A systematic literature review'
     year: '2021'
+  ArBlXxUAAAAJ:gsN89kCJA0AC:
+    citations: 2
+    title: Double wishbone suspension system of BAJA ATV
+    year: '2019'
   ArBlXxUAAAAJ:hMsQuOkrut0C:
     citations: 1
     title: Towards Class Diagram Generation from User Stories Using LLMs
     year: '2025'
+  ArBlXxUAAAAJ:kuK5TVdYjLIC:
+    citations: 0
+    title: Design and Weight optimization of wheel assembly components using FEA for BAJA
+    year: Unknown Year
   ArBlXxUAAAAJ:ldfaerwXgEUC:
-    citations: 32
+    citations: 33
     title: On the potential of numerical association rule mining
     year: '2020'
   ArBlXxUAAAAJ:p__nRnzSRKYC:
@@ -118,7 +138,7 @@ papers:
     title: 'Swarm-intelligence algorithms for mining numerical association rules: An exhaustive multi-aspect analysis of performance assessment data'
     year: Unknown Year
   ArBlXxUAAAAJ:pqnbT2bcN3wC:
-    citations: 28
+    citations: 29
     title: Cluster-based association rule mining for an intersection accident dataset
     year: '2021'
   ArBlXxUAAAAJ:pyW8ca7W8N0C:
@@ -130,15 +150,19 @@ papers:
     title: Analysis of spatial features in CBIR system
     year: '2012'
   ArBlXxUAAAAJ:rO6llkc54NcC:
-    citations: 26
+    citations: 27
     title: "Smart healthcare: disease prediction using the cuckoo\u2010enabled deep classifier in IoT framework"
     year: '2022'
   ArBlXxUAAAAJ:tYavs44e6CUC:
     citations: 0
     title: Towards Leveraging LLMs to Generate Abstract Penetration Test Cases from Software Architecture
     year: '2026'
+  ArBlXxUAAAAJ:tuHXwOkdijsC:
+    citations: 0
+    title: Weight Optimization and Load Path visualization using FEA for ATV Roll Cage
+    year: Unknown Year
   ArBlXxUAAAAJ:uWiczbcajpAC:
-    citations: 11
+    citations: 12
     title: On observing patterns of correlations during drill-down
     year: '2023'
   ArBlXxUAAAAJ:vDijr-p_gm4C:
