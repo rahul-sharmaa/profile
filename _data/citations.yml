@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -26,7 +26,7 @@ papers:
     title: 'Why Not to Trust Big Data: Discussing'
     year: '2022'
   ArBlXxUAAAAJ:BUYA1_V_uYcC:
-    citations: 27
+    citations: 28
     title: 'Mobile smart contracts: exploring scalability challenges and consensus mechanisms'
     year: '2024'
   ArBlXxUAAAAJ:BwyfMAYsbu0C:
@@ -53,10 +53,18 @@ papers:
     citations: 1
     title: 'On Measuring Confounding Bias in Mixed Multidimensional Data: Case of Coerced Multiple Linear Regression Adjustment'
     year: '2024'
+  ArBlXxUAAAAJ:LI9QrySNdTsC:
+    citations: 0
+    title: 'LLM4MTLs: Automated Generation and Empirical Evaluation of Model Transformation Languages'
+    year: '2026'
   ArBlXxUAAAAJ:M05iB0D1s5AC:
-    citations: 78
+    citations: 79
     title: A systematic assessment of numerical association rule mining methods
     year: '2021'
+  ArBlXxUAAAAJ:M7yex6snE4oC:
+    citations: 0
+    title: 'Case study-The turnaround time of an aircraft: a competitive weapon for an airline company'
+    year: '2014'
   ArBlXxUAAAAJ:ML0RJ9NH7IQC:
     citations: 0
     title: 'Discretizing Numerical Attributes: An Analysis of Human Perceptions'
@@ -76,6 +84,14 @@ papers:
   ArBlXxUAAAAJ:URolC5Kub84C:
     citations: 0
     title: Future Opportunities for Systematic AI Support in Healthcare
+    year: Unknown Year
+  ArBlXxUAAAAJ:VaXvl8Fpj5cC:
+    citations: 7
+    title: Design and analysis of wing rib of aircraft review
+    year: '2014'
+  ArBlXxUAAAAJ:WZBGuue-350C:
+    citations: 0
+    title: Design and Analysis of Wing Rib of Aircraft
     year: Unknown Year
   ArBlXxUAAAAJ:Z5m8FVwuT1cC:
     citations: 0
@@ -125,14 +141,30 @@ papers:
     citations: 1
     title: Towards Class Diagram Generation from User Stories Using LLMs
     year: '2025'
+  ArBlXxUAAAAJ:k8Z6L05lTy4C:
+    citations: 0
+    title: Cartridge Case using Sheet Metal Forming of Life Saving Device in Seat Ejection Application for Fighter Aircraft
+    year: '2026'
   ArBlXxUAAAAJ:kuK5TVdYjLIC:
     citations: 0
     title: Design and Weight optimization of wheel assembly components using FEA for BAJA
     year: Unknown Year
+  ArBlXxUAAAAJ:kz9GbA2Ns4gC:
+    citations: 38
+    title: 'The turnaround time of an aircraft: a competitive weapon for an airline company'
+    year: '2014'
   ArBlXxUAAAAJ:ldfaerwXgEUC:
     citations: 33
     title: On the potential of numerical association rule mining
     year: '2020'
+  ArBlXxUAAAAJ:lmc2jWPfTJgC:
+    citations: 0
+    title: 'Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution'
+    year: '2026'
+  ArBlXxUAAAAJ:oNZyr7d5Mn4C:
+    citations: 0
+    title: Thickening of overflow section of Koyna dam and its hydraulic performance for partial construction stage, India
+    year: '2006'
   ArBlXxUAAAAJ:p__nRnzSRKYC:
     citations: 1
     title: 'Swarm-intelligence algorithms for mining numerical association rules: An exhaustive multi-aspect analysis of performance assessment data'
