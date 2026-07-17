@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-17'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -26,7 +26,7 @@ papers:
     title: 'Why Not to Trust Big Data: Discussing'
     year: '2022'
   ArBlXxUAAAAJ:BUYA1_V_uYcC:
-    citations: 28
+    citations: 29
     title: 'Mobile smart contracts: exploring scalability challenges and consensus mechanisms'
     year: '2024'
   ArBlXxUAAAAJ:BwyfMAYsbu0C:
@@ -54,11 +54,11 @@ papers:
     title: 'On Measuring Confounding Bias in Mixed Multidimensional Data: Case of Coerced Multiple Linear Regression Adjustment'
     year: '2024'
   ArBlXxUAAAAJ:LI9QrySNdTsC:
-    citations: 0
-    title: 'LLM4MTLs: Automated Generation and Empirical Evaluation of Model Transformation Languages'
+    citations: 1
+    title: 'Llm4mtls: Automated generation and empirical evaluation of model transformation languages'
     year: '2026'
   ArBlXxUAAAAJ:M05iB0D1s5AC:
-    citations: 79
+    citations: 80
     title: A systematic assessment of numerical association rule mining methods
     year: '2021'
   ArBlXxUAAAAJ:M7yex6snE4oC:
@@ -102,7 +102,7 @@ papers:
     title: A novel framework for unification of association rule mining, online analytical processing and statistical reasoning
     year: '2022'
   ArBlXxUAAAAJ:a0OBvERweLwC:
-    citations: 109
+    citations: 112
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
   ArBlXxUAAAAJ:b1wdh0AR-JQC:
@@ -110,7 +110,7 @@ papers:
     title: Birdstrike simulation of an aircraft wing
     year: '2014'
   ArBlXxUAAAAJ:bFI3QPDXJZMC:
-    citations: 25
+    citations: 26
     title: 'Numerical association rule mining: a systematic literature review'
     year: '2023'
   ArBlXxUAAAAJ:cFHS6HbyZ2cC:
