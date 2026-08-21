@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-21'
 papers:
   ArBlXxUAAAAJ:-_dYPAW6P2MC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: 'Barriers to digital transformation of the silver economy: Challenges to adopting digital skills by the silver generation'
     year: '2023'
   ArBlXxUAAAAJ:70eg2SAEIzsC:
-    citations: 31
+    citations: 32
     title: 'Expected vs. Unexpected: Selecting Right Measures of Interestingness'
     year: Unknown Year
   ArBlXxUAAAAJ:AvfA0Oy_GE0C:
@@ -26,7 +26,7 @@ papers:
     title: 'Why Not to Trust Big Data: Discussing'
     year: '2022'
   ArBlXxUAAAAJ:BUYA1_V_uYcC:
-    citations: 29
+    citations: 31
     title: 'Mobile smart contracts: exploring scalability challenges and consensus mechanisms'
     year: '2024'
   ArBlXxUAAAAJ:BwyfMAYsbu0C:
@@ -47,14 +47,14 @@ papers:
     year: '2025'
   ArBlXxUAAAAJ:KUbvn5osdkgC:
     citations: 3
-    title: An Exhaustive Multi-Aspect Analysis of Swarm Intelligence Algorithms in Numerical Association Rule Mining
+    title: An exhaustive multi-aspect analysis of swarm intelligence algorithms in numerical association rule mining
     year: '2024'
   ArBlXxUAAAAJ:L7CI7m0gUJcC:
     citations: 1
     title: 'On Measuring Confounding Bias in Mixed Multidimensional Data: Case of Coerced Multiple Linear Regression Adjustment'
     year: '2024'
   ArBlXxUAAAAJ:LI9QrySNdTsC:
-    citations: 1
+    citations: 2
     title: 'Llm4mtls: Automated generation and empirical evaluation of model transformation languages'
     year: '2026'
   ArBlXxUAAAAJ:M05iB0D1s5AC:
@@ -78,7 +78,7 @@ papers:
     title: 'Impact-driven discretization of numerical factors: case of two-and three-partitioning'
     year: '2021'
   ArBlXxUAAAAJ:TIZ-Mc8IlK0C:
-    citations: 8
+    citations: 10
     title: Design and analysis of space frame tubular chassis to be used in formula SAE
     year: '2015'
   ArBlXxUAAAAJ:URolC5Kub84C:
@@ -102,11 +102,11 @@ papers:
     title: A novel framework for unification of association rule mining, online analytical processing and statistical reasoning
     year: '2022'
   ArBlXxUAAAAJ:a0OBvERweLwC:
-    citations: 112
+    citations: 114
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
   ArBlXxUAAAAJ:b1wdh0AR-JQC:
-    citations: 6
+    citations: 5
     title: Birdstrike simulation of an aircraft wing
     year: '2014'
   ArBlXxUAAAAJ:bFI3QPDXJZMC:
@@ -130,15 +130,15 @@ papers:
     title: 'Advancing Digital Services and e-Signature: a Case Study of Azerbaijan'
     year: '2025'
   ArBlXxUAAAAJ:g5m5HwL7SMYC:
-    citations: 46
+    citations: 47
     title: 'Big data analytics in association rule mining: A systematic literature review'
     year: '2021'
   ArBlXxUAAAAJ:gsN89kCJA0AC:
-    citations: 2
+    citations: 1
     title: Double wishbone suspension system of BAJA ATV
     year: '2019'
   ArBlXxUAAAAJ:hMsQuOkrut0C:
-    citations: 1
+    citations: 3
     title: Towards Class Diagram Generation from User Stories Using LLMs
     year: '2025'
   ArBlXxUAAAAJ:k8Z6L05lTy4C:
@@ -150,15 +150,15 @@ papers:
     title: Design and Weight optimization of wheel assembly components using FEA for BAJA
     year: Unknown Year
   ArBlXxUAAAAJ:kz9GbA2Ns4gC:
-    citations: 38
+    citations: 39
     title: 'The turnaround time of an aircraft: a competitive weapon for an airline company'
     year: '2014'
   ArBlXxUAAAAJ:ldfaerwXgEUC:
-    citations: 33
+    citations: 32
     title: On the potential of numerical association rule mining
     year: '2020'
   ArBlXxUAAAAJ:lmc2jWPfTJgC:
-    citations: 0
+    citations: 1
     title: 'Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution'
     year: '2026'
   ArBlXxUAAAAJ:oNZyr7d5Mn4C:
@@ -170,7 +170,7 @@ papers:
     title: 'Swarm-intelligence algorithms for mining numerical association rules: An exhaustive multi-aspect analysis of performance assessment data'
     year: Unknown Year
   ArBlXxUAAAAJ:pqnbT2bcN3wC:
-    citations: 29
+    citations: 28
     title: Cluster-based association rule mining for an intersection accident dataset
     year: '2021'
   ArBlXxUAAAAJ:pyW8ca7W8N0C:
@@ -178,11 +178,11 @@ papers:
     title: "Detecting simpson\u2019s paradox: A step towards fairness in machine learning"
     year: '2022'
   ArBlXxUAAAAJ:qjMakFHDy7sC:
-    citations: 19
+    citations: 20
     title: Analysis of spatial features in CBIR system
     year: '2012'
   ArBlXxUAAAAJ:rO6llkc54NcC:
-    citations: 27
+    citations: 26
     title: "Smart healthcare: disease prediction using the cuckoo\u2010enabled deep classifier in IoT framework"
     year: '2022'
   ArBlXxUAAAAJ:tYavs44e6CUC:
@@ -203,13 +203,13 @@ papers:
     year: '2023'
   ArBlXxUAAAAJ:vbGhcppDl1QC:
     citations: 0
-    title: On Choosing the Columnar In-Memory Database Hyrise as High-Performant Implementation Platform for the GrandReport Tool
+    title: On Choosing the Columnar In-Memory Database Hyrise as High-Performant Implementation Platform for the Grandreport Tool
     year: '2025'
   ArBlXxUAAAAJ:yD5IFk8b50cC:
     citations: 15
-    title: 'Towards unification of statistical reasoning, OLAP and association rule mining: semantics and pragmatics'
+    title: 'Towards unification of statistical reasoning, olap and association rule mining: semantics and pragmatics'
     year: '2022'
   ArBlXxUAAAAJ:zA6iFVUQeVQC:
-    citations: 24
+    citations: 23
     title: Exploring factors in a crossroad dataset using cluster-based association rule mining
     year: '2022'
