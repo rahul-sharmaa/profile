@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-04'
 papers:
   ArBlXxUAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: 'Why Not to Trust Big Data: Discussing'
     year: '2022'
   ArBlXxUAAAAJ:BUYA1_V_uYcC:
-    citations: 32
+    citations: 33
     title: 'Mobile smart contracts: exploring scalability challenges and consensus mechanisms'
     year: '2024'
   ArBlXxUAAAAJ:BwyfMAYsbu0C:
@@ -90,7 +90,7 @@ papers:
     title: Future Opportunities for Systematic AI Support in Healthcare
     year: Unknown Year
   ArBlXxUAAAAJ:VaXvl8Fpj5cC:
-    citations: 7
+    citations: 8
     title: Design and analysis of wing rib of aircraft review
     year: '2014'
   ArBlXxUAAAAJ:WZBGuue-350C:
@@ -106,7 +106,7 @@ papers:
     title: A novel framework for unification of association rule mining, online analytical processing and statistical reasoning
     year: '2022'
   ArBlXxUAAAAJ:a0OBvERweLwC:
-    citations: 114
+    citations: 115
     title: Machine learning assisted methodology for multiclass classification of malignant brain tumors
     year: '2022'
   ArBlXxUAAAAJ:b1wdh0AR-JQC:
@@ -142,7 +142,7 @@ papers:
     title: Double wishbone suspension system of BAJA ATV
     year: '2019'
   ArBlXxUAAAAJ:hMsQuOkrut0C:
-    citations: 3
+    citations: 4
     title: Towards Class Diagram Generation from User Stories Using LLMs
     year: '2025'
   ArBlXxUAAAAJ:k8Z6L05lTy4C:
